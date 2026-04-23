@@ -1,0 +1,501 @@
+respondent_id,h1n1_concern,h1n1_knowledge,behavioral_antiviral_meds,behavioral_avoidance,opinion_h1n1_vacc_effective,opinion_h1n1_risk,age_group,education,income_poverty,sex
+10001,2,2,1,1,5,4,18 - 34 Years,Some College,Above Poverty,Female
+10002,0,1,1,1,1,1,55 - 64 Years,College Graduate,Above Poverty,Female
+10003,2,2,0,1,4,4,45 - 54 Years,<12 Years,Above Poverty,Female
+10004,3,2,1,1,3,2,35 - 44 Years,College Graduate,Above Poverty,Male
+10005,3,2,0,0,5,1,45 - 54 Years,12 Years,Middle,Female
+10006,1,1,1,0,5,2,55 - 64 Years,12 Years,Middle,Male
+10007,0,1,0,1,1,3,45 - 54 Years,Some College,Below Poverty,Male
+10008,1,1,0,1,1,2,18 - 34 Years,12 Years,Below Poverty,Female
+10009,2,1,0,1,3,3,65+ Years,College Graduate,Below Poverty,Female
+10010,0,1,0,0,5,5,35 - 44 Years,College Graduate,Below Poverty,Male
+10011,2,0,0,0,2,1,65+ Years,Some College,Above Poverty,Male
+10012,3,0,1,1,1,2,45 - 54 Years,College Graduate,Below Poverty,Female
+10013,0,1,0,1,5,3,18 - 34 Years,12 Years,Below Poverty,Female
+10014,2,1,1,1,4,2,18 - 34 Years,Some College,Above Poverty,Female
+10015,1,0,0,1,5,3,18 - 34 Years,Some College,Below Poverty,Male
+10016,2,1,1,0,3,5,45 - 54 Years,12 Years,Below Poverty,Female
+10017,3,2,0,1,1,2,55 - 64 Years,12 Years,Middle,Male
+10018,3,2,1,0,5,2,45 - 54 Years,<12 Years,Below Poverty,Male
+10019,1,0,0,0,2,3,55 - 64 Years,<12 Years,Above Poverty,Female
+10020,1,2,1,0,4,4,65+ Years,Some College,Middle,Male
+10021,2,0,0,0,2,4,45 - 54 Years,College Graduate,Below Poverty,Female
+10022,3,1,1,1,3,4,35 - 44 Years,<12 Years,Above Poverty,Male
+10023,3,1,0,1,5,2,65+ Years,Some College,Below Poverty,Male
+10024,1,1,0,0,3,2,55 - 64 Years,Some College,Above Poverty,Male
+10025,2,2,0,1,5,5,45 - 54 Years,College Graduate,Above Poverty,Female
+10026,3,1,1,0,5,1,45 - 54 Years,College Graduate,Above Poverty,Female
+10027,1,0,1,1,1,5,18 - 34 Years,College Graduate,Middle,Male
+10028,3,0,1,1,3,4,18 - 34 Years,12 Years,Below Poverty,Male
+10029,1,0,0,0,1,2,65+ Years,Some College,Middle,Male
+10030,3,1,0,1,5,5,55 - 64 Years,Some College,Below Poverty,Female
+10031,2,0,1,0,1,2,55 - 64 Years,College Graduate,Middle,Female
+10032,0,0,0,1,4,2,18 - 34 Years,College Graduate,Above Poverty,Female
+10033,1,1,1,1,3,3,18 - 34 Years,Some College,Below Poverty,Female
+10034,3,2,0,0,3,4,55 - 64 Years,12 Years,Above Poverty,Female
+10035,3,2,1,0,3,1,18 - 34 Years,College Graduate,Below Poverty,Female
+10036,0,2,0,1,5,2,65+ Years,12 Years,Above Poverty,Female
+10037,0,1,0,0,5,3,65+ Years,12 Years,Below Poverty,Male
+10038,1,2,1,0,2,5,65+ Years,12 Years,Below Poverty,Male
+10039,3,0,0,1,3,5,45 - 54 Years,College Graduate,Below Poverty,Female
+10040,0,0,0,1,2,2,35 - 44 Years,College Graduate,Middle,Male
+10041,3,2,0,0,2,5,55 - 64 Years,College Graduate,Above Poverty,Female
+10042,1,2,0,1,3,3,55 - 64 Years,Some College,Middle,Female
+10043,3,0,0,0,2,2,65+ Years,College Graduate,Above Poverty,Male
+10044,3,2,1,0,2,5,55 - 64 Years,12 Years,Middle,Female
+10045,3,2,1,1,5,3,55 - 64 Years,College Graduate,Above Poverty,Male
+10046,1,2,1,0,2,5,45 - 54 Years,12 Years,Above Poverty,Male
+10047,0,1,0,0,4,2,45 - 54 Years,College Graduate,Below Poverty,Female
+10048,3,2,1,1,1,5,35 - 44 Years,Some College,Middle,Female
+10049,2,0,1,0,1,5,18 - 34 Years,12 Years,Below Poverty,Male
+10050,0,0,1,1,3,4,35 - 44 Years,College Graduate,Below Poverty,Male
+10051,1,2,0,1,1,2,55 - 64 Years,Some College,Below Poverty,Female
+10052,0,0,0,1,4,1,18 - 34 Years,12 Years,Below Poverty,Female
+10053,1,0,1,1,4,3,65+ Years,Some College,Below Poverty,Male
+10054,1,1,1,1,4,3,55 - 64 Years,12 Years,Above Poverty,Male
+10055,3,0,0,0,4,3,55 - 64 Years,College Graduate,Middle,Female
+10056,0,2,1,0,5,2,35 - 44 Years,College Graduate,Middle,Female
+10057,3,2,1,1,4,4,65+ Years,College Graduate,Below Poverty,Male
+10058,2,2,0,1,2,4,65+ Years,12 Years,Middle,Male
+10059,2,1,0,0,5,3,45 - 54 Years,College Graduate,Above Poverty,Male
+10060,2,0,1,1,5,4,35 - 44 Years,<12 Years,Above Poverty,Female
+10061,1,1,1,1,5,1,18 - 34 Years,<12 Years,Below Poverty,Male
+10062,2,0,1,1,4,1,35 - 44 Years,College Graduate,Middle,Female
+10063,2,2,0,0,3,4,65+ Years,<12 Years,Above Poverty,Female
+10064,0,1,1,1,2,2,45 - 54 Years,Some College,Middle,Female
+10065,2,0,1,1,1,5,45 - 54 Years,<12 Years,Below Poverty,Male
+10066,0,1,0,1,4,3,45 - 54 Years,12 Years,Above Poverty,Female
+10067,0,2,0,0,1,3,18 - 34 Years,Some College,Above Poverty,Female
+10068,0,1,0,0,1,2,65+ Years,Some College,Below Poverty,Male
+10069,1,0,0,0,1,1,65+ Years,College Graduate,Middle,Male
+10070,1,0,0,1,2,5,18 - 34 Years,<12 Years,Below Poverty,Male
+10071,3,1,0,1,4,2,18 - 34 Years,<12 Years,Below Poverty,Male
+10072,1,0,0,0,3,1,65+ Years,12 Years,Above Poverty,Male
+10073,0,1,0,0,1,5,55 - 64 Years,12 Years,Above Poverty,Male
+10074,1,1,1,1,1,5,65+ Years,12 Years,Middle,Male
+10075,0,0,1,1,4,1,55 - 64 Years,Some College,Below Poverty,Female
+10076,3,2,1,1,2,5,45 - 54 Years,Some College,Middle,Female
+10077,2,1,1,0,5,3,35 - 44 Years,12 Years,Middle,Female
+10078,2,2,0,0,1,4,55 - 64 Years,<12 Years,Below Poverty,Male
+10079,0,1,0,1,3,2,45 - 54 Years,College Graduate,Above Poverty,Male
+10080,1,1,0,1,4,2,65+ Years,<12 Years,Below Poverty,Male
+10081,1,1,1,0,2,4,45 - 54 Years,Some College,Below Poverty,Female
+10082,3,0,1,0,4,4,65+ Years,<12 Years,Middle,Male
+10083,3,1,1,0,5,2,45 - 54 Years,College Graduate,Middle,Female
+10084,0,1,0,1,4,5,35 - 44 Years,12 Years,Below Poverty,Female
+10085,2,2,1,1,4,2,45 - 54 Years,12 Years,Below Poverty,Female
+10086,1,2,0,1,4,2,65+ Years,<12 Years,Middle,Female
+10087,3,0,0,1,1,5,65+ Years,<12 Years,Above Poverty,Male
+10088,3,0,0,1,4,2,35 - 44 Years,<12 Years,Middle,Male
+10089,1,0,1,1,5,5,18 - 34 Years,12 Years,Below Poverty,Female
+10090,2,0,0,1,1,1,18 - 34 Years,12 Years,Above Poverty,Male
+10091,3,0,0,0,4,5,18 - 34 Years,College Graduate,Middle,Female
+10092,1,2,1,0,4,1,35 - 44 Years,12 Years,Below Poverty,Female
+10093,1,0,0,1,5,2,65+ Years,<12 Years,Middle,Male
+10094,3,2,1,0,1,3,18 - 34 Years,<12 Years,Below Poverty,Female
+10095,3,2,0,1,3,3,65+ Years,12 Years,Above Poverty,Female
+10096,3,2,1,0,5,1,35 - 44 Years,12 Years,Middle,Male
+10097,0,0,0,1,4,2,65+ Years,<12 Years,Below Poverty,Female
+10098,3,0,0,0,1,5,65+ Years,Some College,Middle,Male
+10099,0,1,1,1,1,1,18 - 34 Years,Some College,Above Poverty,Female
+10100,2,2,1,0,4,4,18 - 34 Years,College Graduate,Middle,Female
+10101,2,1,1,1,3,5,65+ Years,Some College,Middle,Male
+10102,0,0,0,1,4,3,35 - 44 Years,Some College,Below Poverty,Male
+10103,1,2,1,1,1,3,65+ Years,12 Years,Middle,Female
+10104,2,1,1,0,4,3,35 - 44 Years,<12 Years,Middle,Male
+10105,1,1,1,0,5,5,45 - 54 Years,<12 Years,Below Poverty,Female
+10106,3,2,1,0,4,3,55 - 64 Years,<12 Years,Below Poverty,Female
+10107,0,1,1,0,2,4,65+ Years,College Graduate,Middle,Male
+10108,2,1,0,1,5,4,65+ Years,12 Years,Middle,Female
+10109,2,0,0,0,4,2,55 - 64 Years,<12 Years,Below Poverty,Male
+10110,3,1,0,1,5,1,45 - 54 Years,12 Years,Below Poverty,Male
+10111,1,0,1,1,2,2,45 - 54 Years,College Graduate,Above Poverty,Female
+10112,2,2,0,0,4,1,18 - 34 Years,12 Years,Middle,Female
+10113,1,2,1,1,4,3,45 - 54 Years,12 Years,Above Poverty,Female
+10114,0,1,0,1,5,2,18 - 34 Years,Some College,Below Poverty,Male
+10115,1,2,0,0,3,1,65+ Years,College Graduate,Below Poverty,Female
+10116,0,0,0,1,1,1,65+ Years,<12 Years,Above Poverty,Female
+10117,0,2,0,1,5,2,18 - 34 Years,<12 Years,Below Poverty,Female
+10118,3,0,0,0,3,1,55 - 64 Years,College Graduate,Below Poverty,Female
+10119,2,0,1,1,3,3,45 - 54 Years,Some College,Middle,Female
+10120,1,1,0,1,3,3,65+ Years,Some College,Above Poverty,Female
+10121,0,1,0,1,3,1,55 - 64 Years,Some College,Below Poverty,Male
+10122,0,1,1,1,4,2,35 - 44 Years,<12 Years,Below Poverty,Female
+10123,3,1,0,1,4,4,55 - 64 Years,<12 Years,Above Poverty,Female
+10124,0,2,0,1,4,1,45 - 54 Years,College Graduate,Middle,Male
+10125,1,0,0,1,5,4,18 - 34 Years,Some College,Below Poverty,Female
+10126,1,1,0,0,1,3,65+ Years,College Graduate,Above Poverty,Male
+10127,1,2,0,0,3,4,45 - 54 Years,12 Years,Middle,Male
+10128,2,2,1,0,2,1,18 - 34 Years,12 Years,Above Poverty,Male
+10129,1,2,1,1,3,4,35 - 44 Years,12 Years,Middle,Male
+10130,0,1,1,1,1,2,35 - 44 Years,12 Years,Above Poverty,Female
+10131,1,2,1,1,1,1,55 - 64 Years,12 Years,Middle,Male
+10132,1,2,1,1,2,5,55 - 64 Years,12 Years,Below Poverty,Female
+10133,1,0,1,1,2,2,35 - 44 Years,12 Years,Above Poverty,Male
+10134,0,1,1,0,1,3,35 - 44 Years,Some College,Above Poverty,Female
+10135,1,2,0,0,1,5,18 - 34 Years,Some College,Below Poverty,Male
+10136,3,1,0,0,4,2,65+ Years,Some College,Middle,Female
+10137,3,1,1,1,3,2,45 - 54 Years,12 Years,Middle,Male
+10138,0,2,0,1,1,1,55 - 64 Years,Some College,Below Poverty,Male
+10139,1,2,1,1,2,5,55 - 64 Years,College Graduate,Below Poverty,Male
+10140,0,0,0,1,4,5,65+ Years,College Graduate,Below Poverty,Female
+10141,3,0,0,0,3,5,18 - 34 Years,12 Years,Middle,Male
+10142,0,2,0,0,3,4,18 - 34 Years,Some College,Middle,Male
+10143,2,1,1,1,2,4,35 - 44 Years,College Graduate,Below Poverty,Female
+10144,3,2,1,0,4,1,45 - 54 Years,12 Years,Middle,Female
+10145,0,0,1,0,4,4,45 - 54 Years,<12 Years,Below Poverty,Male
+10146,3,0,1,0,2,5,18 - 34 Years,12 Years,Below Poverty,Female
+10147,2,2,0,0,1,1,55 - 64 Years,Some College,Above Poverty,Female
+10148,2,0,1,1,2,3,55 - 64 Years,<12 Years,Middle,Female
+10149,1,0,1,0,5,4,18 - 34 Years,Some College,Middle,Female
+10150,0,2,1,0,3,5,65+ Years,Some College,Below Poverty,Male
+10151,0,1,1,0,1,4,45 - 54 Years,<12 Years,Middle,Female
+10152,0,0,0,0,3,5,45 - 54 Years,College Graduate,Middle,Female
+10153,3,2,1,0,1,1,18 - 34 Years,12 Years,Middle,Female
+10154,3,0,1,1,3,2,65+ Years,12 Years,Below Poverty,Female
+10155,0,0,0,0,1,2,65+ Years,<12 Years,Below Poverty,Male
+10156,1,0,1,1,4,4,35 - 44 Years,College Graduate,Below Poverty,Male
+10157,1,0,1,1,5,5,65+ Years,12 Years,Below Poverty,Male
+10158,1,1,0,0,1,1,55 - 64 Years,Some College,Middle,Male
+10159,2,0,1,1,1,3,35 - 44 Years,<12 Years,Below Poverty,Male
+10160,3,0,0,0,2,2,35 - 44 Years,College Graduate,Above Poverty,Female
+10161,3,2,1,1,2,4,45 - 54 Years,<12 Years,Below Poverty,Female
+10162,3,1,0,1,4,4,35 - 44 Years,<12 Years,Above Poverty,Male
+10163,0,1,1,1,3,5,65+ Years,12 Years,Above Poverty,Female
+10164,2,1,1,0,3,5,18 - 34 Years,College Graduate,Below Poverty,Male
+10165,0,1,1,0,4,5,35 - 44 Years,12 Years,Above Poverty,Male
+10166,0,0,0,0,5,4,45 - 54 Years,College Graduate,Above Poverty,Male
+10167,0,1,1,0,5,5,18 - 34 Years,College Graduate,Middle,Female
+10168,1,1,0,0,1,4,55 - 64 Years,College Graduate,Middle,Male
+10169,2,1,1,1,4,3,65+ Years,<12 Years,Middle,Male
+10170,3,0,1,0,1,2,55 - 64 Years,12 Years,Above Poverty,Female
+10171,0,0,0,1,5,5,35 - 44 Years,12 Years,Below Poverty,Male
+10172,3,0,1,0,4,5,65+ Years,College Graduate,Above Poverty,Female
+10173,3,1,1,1,4,4,18 - 34 Years,Some College,Middle,Male
+10174,3,2,0,0,1,2,18 - 34 Years,Some College,Above Poverty,Female
+10175,2,1,0,0,5,2,35 - 44 Years,<12 Years,Below Poverty,Female
+10176,1,1,0,0,2,2,35 - 44 Years,<12 Years,Below Poverty,Male
+10177,0,0,1,1,4,3,45 - 54 Years,Some College,Above Poverty,Male
+10178,2,2,1,1,3,4,45 - 54 Years,Some College,Above Poverty,Female
+10179,0,2,1,0,2,5,55 - 64 Years,12 Years,Middle,Female
+10180,3,1,0,0,5,1,18 - 34 Years,Some College,Below Poverty,Female
+10181,0,0,0,1,5,5,45 - 54 Years,Some College,Middle,Female
+10182,0,0,0,0,2,3,18 - 34 Years,12 Years,Below Poverty,Female
+10183,0,0,1,1,5,1,55 - 64 Years,12 Years,Below Poverty,Male
+10184,2,2,1,1,4,1,65+ Years,12 Years,Middle,Male
+10185,0,2,1,1,1,5,55 - 64 Years,College Graduate,Middle,Female
+10186,0,0,1,1,5,3,35 - 44 Years,Some College,Above Poverty,Male
+10187,2,2,1,1,5,4,45 - 54 Years,Some College,Middle,Male
+10188,2,2,1,1,3,1,35 - 44 Years,<12 Years,Middle,Female
+10189,3,1,1,1,2,5,65+ Years,College Graduate,Above Poverty,Male
+10190,1,2,1,0,1,4,35 - 44 Years,12 Years,Middle,Female
+10191,1,2,1,0,3,3,18 - 34 Years,College Graduate,Above Poverty,Male
+10192,3,2,1,1,3,5,35 - 44 Years,12 Years,Middle,Male
+10193,2,1,1,1,4,5,35 - 44 Years,<12 Years,Above Poverty,Female
+10194,2,2,0,0,4,3,55 - 64 Years,Some College,Above Poverty,Male
+10195,2,2,0,0,2,3,45 - 54 Years,12 Years,Middle,Female
+10196,3,0,1,1,3,3,45 - 54 Years,College Graduate,Above Poverty,Female
+10197,3,1,0,1,5,4,55 - 64 Years,<12 Years,Below Poverty,Male
+10198,1,1,1,0,1,4,55 - 64 Years,College Graduate,Middle,Female
+10199,1,1,0,0,3,3,55 - 64 Years,Some College,Below Poverty,Female
+10200,2,2,1,0,3,4,18 - 34 Years,College Graduate,Above Poverty,Male
+10201,3,1,0,1,1,2,45 - 54 Years,12 Years,Middle,Female
+10202,1,2,0,1,4,5,65+ Years,12 Years,Middle,Female
+10203,3,0,1,1,5,2,18 - 34 Years,12 Years,Above Poverty,Male
+10204,1,2,1,1,5,5,55 - 64 Years,College Graduate,Middle,Male
+10205,2,2,0,0,4,1,18 - 34 Years,College Graduate,Middle,Female
+10206,0,0,0,1,5,4,35 - 44 Years,12 Years,Middle,Female
+10207,0,1,1,1,1,1,65+ Years,<12 Years,Middle,Male
+10208,3,2,1,1,4,4,65+ Years,12 Years,Above Poverty,Male
+10209,2,2,0,0,5,2,55 - 64 Years,<12 Years,Below Poverty,Female
+10210,3,1,1,0,5,3,35 - 44 Years,12 Years,Middle,Male
+10211,1,0,0,0,5,4,65+ Years,<12 Years,Above Poverty,Female
+10212,0,2,0,1,3,3,65+ Years,Some College,Above Poverty,Female
+10213,2,0,1,0,1,1,65+ Years,College Graduate,Above Poverty,Male
+10214,1,0,1,0,1,3,18 - 34 Years,College Graduate,Below Poverty,Male
+10215,0,1,1,1,5,5,55 - 64 Years,<12 Years,Middle,Female
+10216,0,0,1,0,4,3,65+ Years,12 Years,Middle,Male
+10217,0,1,0,1,1,4,35 - 44 Years,Some College,Above Poverty,Female
+10218,2,1,1,1,1,5,35 - 44 Years,<12 Years,Above Poverty,Female
+10219,2,0,1,0,4,1,65+ Years,College Graduate,Below Poverty,Female
+10220,3,1,0,1,2,3,55 - 64 Years,Some College,Below Poverty,Male
+10221,0,1,0,0,3,5,65+ Years,College Graduate,Middle,Female
+10222,1,2,1,0,2,3,45 - 54 Years,12 Years,Below Poverty,Male
+10223,1,0,1,1,3,4,18 - 34 Years,Some College,Above Poverty,Female
+10224,1,2,0,0,2,4,18 - 34 Years,<12 Years,Middle,Male
+10225,1,1,0,0,2,2,18 - 34 Years,12 Years,Middle,Male
+10226,0,0,0,0,2,2,35 - 44 Years,12 Years,Middle,Female
+10227,0,0,1,0,1,2,18 - 34 Years,Some College,Middle,Female
+10228,3,1,0,0,4,3,55 - 64 Years,<12 Years,Above Poverty,Female
+10229,2,0,1,0,5,3,55 - 64 Years,Some College,Middle,Male
+10230,3,2,0,1,5,3,35 - 44 Years,<12 Years,Above Poverty,Male
+10231,2,1,1,0,3,4,45 - 54 Years,Some College,Below Poverty,Female
+10232,3,0,1,0,5,4,55 - 64 Years,College Graduate,Below Poverty,Male
+10233,1,0,1,0,4,3,18 - 34 Years,Some College,Middle,Male
+10234,1,0,1,1,4,2,65+ Years,<12 Years,Middle,Male
+10235,1,0,0,0,2,1,55 - 64 Years,Some College,Below Poverty,Female
+10236,0,0,0,1,3,3,65+ Years,<12 Years,Below Poverty,Male
+10237,3,0,1,0,1,1,55 - 64 Years,Some College,Above Poverty,Male
+10238,2,2,0,1,4,4,65+ Years,College Graduate,Below Poverty,Female
+10239,0,0,1,0,1,4,55 - 64 Years,12 Years,Above Poverty,Male
+10240,2,0,1,0,1,4,65+ Years,<12 Years,Above Poverty,Female
+10241,2,0,0,1,5,5,35 - 44 Years,12 Years,Below Poverty,Male
+10242,3,2,1,1,1,1,35 - 44 Years,College Graduate,Below Poverty,Female
+10243,1,2,1,1,3,3,55 - 64 Years,College Graduate,Below Poverty,Male
+10244,2,0,1,1,1,5,45 - 54 Years,Some College,Above Poverty,Male
+10245,3,1,1,0,2,1,55 - 64 Years,<12 Years,Above Poverty,Male
+10246,2,1,0,1,5,4,65+ Years,12 Years,Middle,Female
+10247,0,1,1,0,4,3,18 - 34 Years,<12 Years,Above Poverty,Male
+10248,3,1,0,1,3,4,35 - 44 Years,<12 Years,Above Poverty,Female
+10249,2,1,1,0,3,3,55 - 64 Years,Some College,Above Poverty,Male
+10250,0,1,1,1,2,3,55 - 64 Years,Some College,Middle,Female
+10251,0,1,0,1,4,3,55 - 64 Years,College Graduate,Above Poverty,Female
+10252,3,2,1,0,4,4,45 - 54 Years,Some College,Below Poverty,Female
+10253,2,2,0,0,5,5,45 - 54 Years,12 Years,Above Poverty,Male
+10254,3,2,0,1,5,1,55 - 64 Years,Some College,Below Poverty,Male
+10255,3,2,1,1,5,4,65+ Years,<12 Years,Above Poverty,Female
+10256,1,0,0,0,3,2,45 - 54 Years,College Graduate,Above Poverty,Female
+10257,1,2,1,1,1,1,45 - 54 Years,12 Years,Above Poverty,Female
+10258,1,2,1,1,2,1,45 - 54 Years,<12 Years,Below Poverty,Male
+10259,0,1,1,0,3,3,65+ Years,12 Years,Below Poverty,Male
+10260,3,0,1,1,5,4,35 - 44 Years,<12 Years,Below Poverty,Female
+10261,0,2,1,1,2,4,35 - 44 Years,College Graduate,Middle,Female
+10262,2,0,1,1,2,1,65+ Years,<12 Years,Above Poverty,Female
+10263,3,2,1,0,1,5,18 - 34 Years,Some College,Below Poverty,Female
+10264,3,0,0,0,3,4,55 - 64 Years,Some College,Below Poverty,Male
+10265,3,0,1,1,5,4,35 - 44 Years,College Graduate,Above Poverty,Male
+10266,2,2,1,1,1,4,55 - 64 Years,12 Years,Middle,Male
+10267,0,1,0,0,4,2,45 - 54 Years,<12 Years,Below Poverty,Male
+10268,3,1,1,0,5,3,35 - 44 Years,<12 Years,Below Poverty,Male
+10269,3,2,1,1,4,3,18 - 34 Years,12 Years,Middle,Female
+10270,1,2,1,1,3,1,55 - 64 Years,Some College,Below Poverty,Female
+10271,3,1,0,0,1,4,45 - 54 Years,Some College,Middle,Male
+10272,3,1,1,0,3,3,65+ Years,12 Years,Middle,Female
+10273,0,1,1,1,2,2,35 - 44 Years,College Graduate,Middle,Female
+10274,1,2,0,0,4,1,18 - 34 Years,<12 Years,Below Poverty,Female
+10275,2,2,0,0,4,5,18 - 34 Years,Some College,Middle,Male
+10276,1,1,0,1,4,4,45 - 54 Years,Some College,Middle,Female
+10277,1,2,0,1,3,2,65+ Years,12 Years,Middle,Female
+10278,1,2,0,0,4,3,18 - 34 Years,12 Years,Middle,Male
+10279,3,1,1,1,2,3,45 - 54 Years,12 Years,Middle,Male
+10280,3,0,1,0,1,2,45 - 54 Years,College Graduate,Middle,Male
+10281,2,1,1,1,2,3,55 - 64 Years,<12 Years,Above Poverty,Female
+10282,2,1,0,0,4,1,65+ Years,College Graduate,Below Poverty,Male
+10283,3,0,1,0,5,5,45 - 54 Years,Some College,Middle,Male
+10284,0,1,1,1,1,3,45 - 54 Years,College Graduate,Below Poverty,Female
+10285,2,2,0,1,5,4,35 - 44 Years,College Graduate,Below Poverty,Male
+10286,3,0,1,1,1,2,65+ Years,<12 Years,Middle,Female
+10287,2,0,1,1,3,2,65+ Years,Some College,Middle,Female
+10288,1,2,0,1,5,5,35 - 44 Years,Some College,Above Poverty,Male
+10289,1,2,1,1,3,1,35 - 44 Years,Some College,Below Poverty,Male
+10290,2,0,1,1,5,1,18 - 34 Years,12 Years,Below Poverty,Female
+10291,0,0,1,0,4,5,65+ Years,Some College,Middle,Male
+10292,0,0,1,0,1,2,65+ Years,12 Years,Above Poverty,Female
+10293,0,2,0,1,2,3,18 - 34 Years,<12 Years,Below Poverty,Female
+10294,3,1,1,0,4,4,55 - 64 Years,Some College,Above Poverty,Female
+10295,0,0,0,0,4,5,65+ Years,12 Years,Above Poverty,Male
+10296,0,2,1,0,1,1,65+ Years,12 Years,Middle,Female
+10297,0,1,0,1,3,2,18 - 34 Years,Some College,Middle,Female
+10298,0,1,1,0,1,2,18 - 34 Years,12 Years,Middle,Male
+10299,0,0,1,0,5,3,35 - 44 Years,Some College,Middle,Male
+10300,1,2,0,0,4,1,65+ Years,12 Years,Middle,Male
+10301,1,0,0,1,3,1,35 - 44 Years,12 Years,Below Poverty,Female
+10302,0,2,1,0,5,2,35 - 44 Years,Some College,Middle,Female
+10303,0,1,0,0,5,5,18 - 34 Years,12 Years,Below Poverty,Male
+10304,1,1,0,1,5,3,55 - 64 Years,12 Years,Below Poverty,Male
+10305,3,2,1,1,2,4,65+ Years,<12 Years,Middle,Female
+10306,0,2,0,1,3,1,55 - 64 Years,Some College,Middle,Male
+10307,1,2,0,1,1,1,45 - 54 Years,12 Years,Above Poverty,Male
+10308,0,1,1,1,2,1,45 - 54 Years,College Graduate,Middle,Female
+10309,3,1,0,1,3,3,45 - 54 Years,College Graduate,Middle,Female
+10310,3,1,1,0,3,3,45 - 54 Years,Some College,Below Poverty,Female
+10311,3,1,0,1,1,5,45 - 54 Years,College Graduate,Middle,Female
+10312,0,1,0,0,2,5,18 - 34 Years,Some College,Below Poverty,Female
+10313,0,0,1,1,4,1,45 - 54 Years,College Graduate,Below Poverty,Female
+10314,3,2,1,0,4,1,18 - 34 Years,College Graduate,Below Poverty,Male
+10315,2,2,0,1,4,1,18 - 34 Years,Some College,Below Poverty,Male
+10316,1,1,1,1,1,3,55 - 64 Years,Some College,Middle,Male
+10317,0,0,1,0,3,1,45 - 54 Years,12 Years,Below Poverty,Female
+10318,0,2,0,1,1,4,35 - 44 Years,<12 Years,Below Poverty,Male
+10319,0,1,0,1,4,2,18 - 34 Years,<12 Years,Above Poverty,Male
+10320,0,2,0,0,1,1,45 - 54 Years,College Graduate,Middle,Male
+10321,3,2,1,1,3,2,55 - 64 Years,Some College,Middle,Male
+10322,0,2,1,1,1,4,45 - 54 Years,Some College,Below Poverty,Female
+10323,2,2,0,1,1,4,35 - 44 Years,College Graduate,Above Poverty,Female
+10324,2,0,0,0,2,5,35 - 44 Years,<12 Years,Below Poverty,Male
+10325,3,1,1,1,3,1,35 - 44 Years,College Graduate,Above Poverty,Male
+10326,3,0,1,1,1,3,45 - 54 Years,<12 Years,Above Poverty,Female
+10327,2,2,1,0,3,1,55 - 64 Years,<12 Years,Above Poverty,Male
+10328,1,0,1,1,4,3,55 - 64 Years,12 Years,Below Poverty,Male
+10329,1,0,0,1,3,4,55 - 64 Years,Some College,Below Poverty,Male
+10330,0,0,0,1,3,5,35 - 44 Years,College Graduate,Middle,Male
+10331,3,2,0,0,5,5,55 - 64 Years,<12 Years,Middle,Male
+10332,2,2,1,0,5,5,55 - 64 Years,Some College,Below Poverty,Female
+10333,3,1,1,0,1,2,65+ Years,College Graduate,Below Poverty,Female
+10334,2,2,1,0,5,5,45 - 54 Years,College Graduate,Above Poverty,Female
+10335,2,1,1,1,4,5,35 - 44 Years,12 Years,Middle,Male
+10336,2,0,1,0,3,2,55 - 64 Years,12 Years,Above Poverty,Male
+10337,3,1,0,0,1,2,35 - 44 Years,12 Years,Above Poverty,Male
+10338,3,1,1,0,4,5,55 - 64 Years,<12 Years,Above Poverty,Female
+10339,1,2,0,1,5,2,45 - 54 Years,College Graduate,Middle,Female
+10340,0,0,1,1,3,4,55 - 64 Years,College Graduate,Middle,Female
+10341,3,1,0,1,3,2,65+ Years,12 Years,Above Poverty,Male
+10342,3,2,0,1,3,3,45 - 54 Years,12 Years,Below Poverty,Male
+10343,2,0,1,0,4,3,55 - 64 Years,12 Years,Middle,Female
+10344,3,1,0,0,4,4,55 - 64 Years,12 Years,Middle,Male
+10345,2,1,0,0,5,1,45 - 54 Years,12 Years,Middle,Male
+10346,1,2,1,1,5,1,55 - 64 Years,Some College,Middle,Male
+10347,0,0,0,1,5,5,55 - 64 Years,<12 Years,Above Poverty,Female
+10348,2,0,0,1,1,5,55 - 64 Years,12 Years,Below Poverty,Male
+10349,3,0,0,0,2,3,55 - 64 Years,Some College,Above Poverty,Male
+10350,1,1,1,1,2,1,65+ Years,<12 Years,Below Poverty,Male
+10351,2,0,0,1,1,2,45 - 54 Years,12 Years,Above Poverty,Female
+10352,0,1,1,1,3,3,35 - 44 Years,College Graduate,Above Poverty,Male
+10353,3,0,0,1,5,5,65+ Years,<12 Years,Above Poverty,Female
+10354,1,1,1,1,1,1,65+ Years,College Graduate,Above Poverty,Female
+10355,2,1,1,1,1,2,45 - 54 Years,Some College,Above Poverty,Female
+10356,0,0,0,1,1,1,35 - 44 Years,12 Years,Below Poverty,Male
+10357,0,2,0,1,1,1,65+ Years,College Graduate,Above Poverty,Male
+10358,3,1,1,1,3,2,65+ Years,College Graduate,Below Poverty,Male
+10359,2,1,1,0,4,2,55 - 64 Years,12 Years,Below Poverty,Female
+10360,3,2,0,1,5,2,45 - 54 Years,<12 Years,Above Poverty,Male
+10361,2,1,1,0,2,3,18 - 34 Years,College Graduate,Above Poverty,Male
+10362,1,2,1,0,5,5,35 - 44 Years,Some College,Middle,Male
+10363,0,1,0,0,2,4,45 - 54 Years,<12 Years,Middle,Female
+10364,1,0,1,1,3,1,18 - 34 Years,College Graduate,Below Poverty,Female
+10365,1,1,0,0,4,4,35 - 44 Years,12 Years,Above Poverty,Female
+10366,3,0,0,1,2,3,35 - 44 Years,<12 Years,Middle,Female
+10367,3,0,0,0,3,5,55 - 64 Years,College Graduate,Below Poverty,Female
+10368,2,1,0,1,5,3,35 - 44 Years,College Graduate,Below Poverty,Female
+10369,0,0,1,1,5,1,55 - 64 Years,Some College,Above Poverty,Male
+10370,0,0,0,0,3,1,55 - 64 Years,12 Years,Above Poverty,Male
+10371,1,1,0,0,4,4,55 - 64 Years,Some College,Middle,Female
+10372,0,2,0,1,2,4,18 - 34 Years,College Graduate,Above Poverty,Male
+10373,3,1,1,0,5,1,18 - 34 Years,Some College,Middle,Female
+10374,3,1,1,0,5,1,65+ Years,College Graduate,Above Poverty,Female
+10375,0,0,0,1,4,3,55 - 64 Years,College Graduate,Above Poverty,Male
+10376,1,1,1,0,4,5,55 - 64 Years,12 Years,Below Poverty,Female
+10377,0,2,0,1,2,1,55 - 64 Years,College Graduate,Below Poverty,Male
+10378,1,0,0,1,5,1,65+ Years,<12 Years,Middle,Female
+10379,2,0,0,0,3,1,35 - 44 Years,College Graduate,Middle,Male
+10380,3,1,1,0,2,2,18 - 34 Years,<12 Years,Above Poverty,Male
+10381,2,0,1,0,4,1,35 - 44 Years,College Graduate,Above Poverty,Female
+10382,2,2,1,0,5,4,55 - 64 Years,Some College,Middle,Male
+10383,0,2,1,0,4,4,55 - 64 Years,12 Years,Below Poverty,Male
+10384,3,1,1,0,4,3,18 - 34 Years,Some College,Middle,Male
+10385,2,1,0,1,1,5,65+ Years,Some College,Middle,Female
+10386,2,0,0,1,2,3,18 - 34 Years,12 Years,Above Poverty,Female
+10387,2,0,0,1,3,5,18 - 34 Years,12 Years,Below Poverty,Male
+10388,0,1,1,1,4,1,65+ Years,College Graduate,Below Poverty,Male
+10389,1,1,0,0,5,1,35 - 44 Years,12 Years,Above Poverty,Female
+10390,1,2,0,1,4,4,45 - 54 Years,College Graduate,Above Poverty,Male
+10391,0,0,0,0,4,3,45 - 54 Years,12 Years,Above Poverty,Male
+10392,2,0,1,0,5,1,35 - 44 Years,Some College,Middle,Female
+10393,2,1,0,1,1,3,35 - 44 Years,12 Years,Below Poverty,Male
+10394,1,1,1,1,5,1,45 - 54 Years,<12 Years,Above Poverty,Female
+10395,3,2,0,0,2,4,45 - 54 Years,<12 Years,Above Poverty,Male
+10396,3,2,0,1,1,5,55 - 64 Years,College Graduate,Above Poverty,Male
+10397,3,1,0,0,2,2,35 - 44 Years,Some College,Below Poverty,Female
+10398,0,1,0,0,3,5,18 - 34 Years,Some College,Above Poverty,Female
+10399,2,1,0,0,5,2,45 - 54 Years,12 Years,Below Poverty,Male
+10400,3,1,1,0,5,4,18 - 34 Years,12 Years,Above Poverty,Female
+10401,3,0,1,0,4,4,55 - 64 Years,Some College,Below Poverty,Male
+10402,0,2,0,0,3,5,55 - 64 Years,12 Years,Above Poverty,Male
+10403,1,1,0,0,5,3,45 - 54 Years,<12 Years,Above Poverty,Male
+10404,3,0,1,1,4,2,55 - 64 Years,<12 Years,Middle,Male
+10405,2,0,1,0,2,4,65+ Years,<12 Years,Middle,Female
+10406,1,0,1,0,3,1,45 - 54 Years,12 Years,Below Poverty,Female
+10407,0,2,1,1,2,4,55 - 64 Years,Some College,Above Poverty,Female
+10408,3,0,0,1,2,1,65+ Years,<12 Years,Below Poverty,Male
+10409,1,0,0,1,3,1,55 - 64 Years,<12 Years,Middle,Male
+10410,2,0,0,0,3,3,55 - 64 Years,Some College,Middle,Male
+10411,3,1,1,1,4,3,65+ Years,Some College,Middle,Male
+10412,0,1,1,1,4,1,35 - 44 Years,College Graduate,Below Poverty,Male
+10413,2,2,1,1,1,4,35 - 44 Years,Some College,Below Poverty,Male
+10414,2,0,1,1,4,2,18 - 34 Years,College Graduate,Below Poverty,Male
+10415,2,2,1,0,5,5,65+ Years,College Graduate,Above Poverty,Female
+10416,2,0,0,1,1,4,35 - 44 Years,<12 Years,Middle,Female
+10417,2,1,0,0,2,3,18 - 34 Years,College Graduate,Below Poverty,Male
+10418,2,2,0,1,3,1,18 - 34 Years,<12 Years,Below Poverty,Female
+10419,3,1,0,0,5,1,55 - 64 Years,<12 Years,Above Poverty,Female
+10420,1,1,1,1,5,2,35 - 44 Years,College Graduate,Below Poverty,Female
+10421,3,1,0,1,4,5,65+ Years,College Graduate,Below Poverty,Female
+10422,3,0,1,1,5,5,35 - 44 Years,College Graduate,Middle,Male
+10423,1,2,0,0,3,1,65+ Years,College Graduate,Below Poverty,Female
+10424,2,0,0,1,1,1,65+ Years,College Graduate,Above Poverty,Male
+10425,3,2,1,1,2,2,65+ Years,Some College,Below Poverty,Male
+10426,1,0,0,0,2,5,45 - 54 Years,<12 Years,Middle,Male
+10427,3,1,0,0,5,4,55 - 64 Years,College Graduate,Below Poverty,Female
+10428,2,0,1,0,5,1,18 - 34 Years,12 Years,Below Poverty,Female
+10429,1,2,0,0,5,4,18 - 34 Years,Some College,Above Poverty,Female
+10430,3,1,0,1,2,1,18 - 34 Years,<12 Years,Middle,Male
+10431,2,2,0,1,5,2,65+ Years,Some College,Below Poverty,Female
+10432,3,2,0,1,3,1,55 - 64 Years,12 Years,Below Poverty,Male
+10433,3,1,1,1,1,1,55 - 64 Years,12 Years,Middle,Female
+10434,1,2,1,1,2,5,45 - 54 Years,12 Years,Above Poverty,Female
+10435,0,2,0,1,3,2,35 - 44 Years,12 Years,Above Poverty,Female
+10436,2,1,0,0,4,4,35 - 44 Years,12 Years,Below Poverty,Male
+10437,1,1,1,0,2,4,35 - 44 Years,<12 Years,Middle,Male
+10438,2,0,1,0,3,4,35 - 44 Years,College Graduate,Above Poverty,Female
+10439,1,0,0,1,2,5,45 - 54 Years,College Graduate,Above Poverty,Female
+10440,2,1,1,1,4,5,45 - 54 Years,<12 Years,Below Poverty,Male
+10441,3,2,1,1,3,2,55 - 64 Years,12 Years,Middle,Female
+10442,0,1,0,0,2,4,55 - 64 Years,Some College,Middle,Male
+10443,3,0,0,0,4,1,65+ Years,College Graduate,Middle,Male
+10444,0,0,0,1,2,1,45 - 54 Years,Some College,Below Poverty,Female
+10445,3,0,1,0,2,1,35 - 44 Years,<12 Years,Above Poverty,Male
+10446,3,0,0,0,5,5,35 - 44 Years,Some College,Above Poverty,Male
+10447,0,2,0,1,1,3,35 - 44 Years,College Graduate,Above Poverty,Male
+10448,2,0,0,1,2,3,45 - 54 Years,College Graduate,Above Poverty,Female
+10449,0,2,0,0,5,3,18 - 34 Years,12 Years,Middle,Female
+10450,1,0,0,1,3,5,65+ Years,<12 Years,Below Poverty,Male
+10451,2,2,1,1,4,2,55 - 64 Years,12 Years,Above Poverty,Female
+10452,0,2,0,1,4,1,45 - 54 Years,12 Years,Middle,Female
+10453,3,2,1,1,4,5,18 - 34 Years,<12 Years,Below Poverty,Male
+10454,3,0,1,0,3,5,65+ Years,Some College,Below Poverty,Male
+10455,0,1,1,0,5,3,35 - 44 Years,College Graduate,Below Poverty,Female
+10456,1,0,1,0,2,3,55 - 64 Years,12 Years,Above Poverty,Female
+10457,0,1,0,0,4,3,55 - 64 Years,College Graduate,Middle,Male
+10458,2,1,0,0,4,5,55 - 64 Years,<12 Years,Below Poverty,Female
+10459,3,0,0,1,2,5,35 - 44 Years,<12 Years,Below Poverty,Female
+10460,1,2,0,1,4,2,55 - 64 Years,<12 Years,Above Poverty,Male
+10461,0,1,0,1,2,1,65+ Years,12 Years,Middle,Male
+10462,1,1,1,0,1,3,65+ Years,Some College,Above Poverty,Male
+10463,3,0,1,1,2,4,45 - 54 Years,<12 Years,Middle,Female
+10464,0,1,1,0,4,1,35 - 44 Years,12 Years,Below Poverty,Female
+10465,2,0,1,0,4,5,35 - 44 Years,12 Years,Above Poverty,Female
+10466,1,2,1,0,1,4,35 - 44 Years,<12 Years,Below Poverty,Male
+10467,2,2,1,0,4,1,18 - 34 Years,12 Years,Below Poverty,Male
+10468,1,0,0,0,3,3,35 - 44 Years,12 Years,Below Poverty,Male
+10469,2,2,1,0,1,4,65+ Years,College Graduate,Above Poverty,Male
+10470,3,2,1,1,4,3,55 - 64 Years,12 Years,Middle,Female
+10471,1,0,0,0,2,4,45 - 54 Years,<12 Years,Below Poverty,Male
+10472,1,1,1,1,3,3,18 - 34 Years,12 Years,Below Poverty,Female
+10473,2,1,1,0,5,1,35 - 44 Years,Some College,Above Poverty,Female
+10474,1,1,1,1,1,4,65+ Years,<12 Years,Middle,Male
+10475,0,0,0,0,3,2,65+ Years,College Graduate,Below Poverty,Male
+10476,1,2,1,1,1,2,18 - 34 Years,<12 Years,Middle,Female
+10477,2,2,1,1,5,4,18 - 34 Years,College Graduate,Middle,Male
+10478,0,0,1,1,2,1,45 - 54 Years,College Graduate,Above Poverty,Male
+10479,2,1,1,1,5,4,45 - 54 Years,<12 Years,Middle,Male
+10480,3,2,0,0,1,2,35 - 44 Years,<12 Years,Middle,Male
+10481,1,0,1,1,3,2,55 - 64 Years,Some College,Above Poverty,Male
+10482,1,0,1,1,3,1,65+ Years,Some College,Above Poverty,Male
+10483,2,0,1,1,3,3,45 - 54 Years,12 Years,Middle,Male
+10484,3,0,0,1,1,2,18 - 34 Years,<12 Years,Middle,Male
+10485,0,0,1,1,3,1,45 - 54 Years,12 Years,Above Poverty,Female
+10486,3,1,0,0,3,5,55 - 64 Years,Some College,Middle,Female
+10487,1,0,1,0,4,3,35 - 44 Years,12 Years,Middle,Female
+10488,3,1,0,1,4,4,35 - 44 Years,Some College,Middle,Female
+10489,2,1,1,0,3,2,45 - 54 Years,<12 Years,Below Poverty,Male
+10490,3,2,1,1,2,5,65+ Years,College Graduate,Above Poverty,Male
+10491,1,0,1,1,2,5,35 - 44 Years,<12 Years,Middle,Male
+10492,2,0,1,1,2,1,45 - 54 Years,Some College,Above Poverty,Male
+10493,1,0,0,0,3,2,35 - 44 Years,12 Years,Above Poverty,Female
+10494,2,0,1,0,5,3,65+ Years,12 Years,Middle,Male
+10495,0,0,1,0,3,1,55 - 64 Years,<12 Years,Below Poverty,Female
+10496,0,1,0,0,3,2,65+ Years,Some College,Below Poverty,Male
+10497,3,2,1,1,5,2,55 - 64 Years,12 Years,Middle,Male
+10498,0,0,0,1,4,4,18 - 34 Years,12 Years,Below Poverty,Male
+10499,0,0,0,1,4,5,35 - 44 Years,12 Years,Middle,Female
+10500,2,0,1,1,3,1,45 - 54 Years,12 Years,Middle,Male

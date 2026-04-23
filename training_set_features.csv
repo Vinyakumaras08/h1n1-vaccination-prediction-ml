@@ -1,0 +1,1001 @@
+respondent_id,h1n1_concern,h1n1_knowledge,behavioral_antiviral_meds,behavioral_avoidance,opinion_h1n1_vacc_effective,opinion_h1n1_risk,age_group,education,income_poverty,sex
+1,2,1,1,1,4,5,35 - 44 Years,12 Years,Middle,Male
+2,3,2,0,0,2,1,45 - 54 Years,<12 Years,Below Poverty,Male
+3,0,0,0,0,2,2,35 - 44 Years,12 Years,Middle,Female
+4,2,0,0,1,5,5,35 - 44 Years,12 Years,Below Poverty,Male
+5,2,0,1,0,3,5,18 - 34 Years,College Graduate,Middle,Female
+6,3,0,1,1,5,4,35 - 44 Years,<12 Years,Below Poverty,Female
+7,0,0,0,1,4,3,55 - 64 Years,College Graduate,Above Poverty,Male
+8,0,0,1,0,5,3,35 - 44 Years,Some College,Middle,Male
+9,2,0,1,1,1,4,45 - 54 Years,Some College,Below Poverty,Female
+10,1,1,0,1,4,4,45 - 54 Years,Some College,Middle,Female
+11,2,2,0,1,2,4,65+ Years,12 Years,Middle,Male
+12,2,0,1,1,3,3,45 - 54 Years,12 Years,Middle,Male
+13,2,1,0,0,4,4,35 - 44 Years,12 Years,Below Poverty,Male
+14,2,1,1,0,4,1,45 - 54 Years,<12 Years,Above Poverty,Male
+15,3,2,1,1,1,5,18 - 34 Years,College Graduate,Above Poverty,Male
+16,0,0,1,0,3,5,45 - 54 Years,12 Years,Above Poverty,Female
+17,3,2,1,1,2,2,55 - 64 Years,College Graduate,Below Poverty,Male
+18,3,0,0,1,4,2,18 - 34 Years,College Graduate,Above Poverty,Male
+19,3,1,0,1,4,5,65+ Years,College Graduate,Below Poverty,Female
+20,2,1,0,1,1,1,55 - 64 Years,<12 Years,Middle,Male
+21,1,1,0,1,5,3,35 - 44 Years,<12 Years,Middle,Male
+22,0,1,1,0,2,3,35 - 44 Years,Some College,Above Poverty,Female
+23,1,2,1,1,3,1,35 - 44 Years,Some College,Below Poverty,Male
+24,3,0,0,0,4,3,55 - 64 Years,College Graduate,Middle,Female
+25,3,0,1,0,4,4,55 - 64 Years,Some College,Below Poverty,Male
+26,1,2,1,1,2,5,55 - 64 Years,College Graduate,Below Poverty,Male
+27,1,0,1,1,5,5,18 - 34 Years,<12 Years,Middle,Male
+28,1,1,0,1,4,1,18 - 34 Years,<12 Years,Below Poverty,Female
+29,3,0,0,1,2,3,35 - 44 Years,<12 Years,Middle,Female
+30,3,1,0,1,1,2,45 - 54 Years,12 Years,Middle,Female
+31,0,2,1,0,5,2,35 - 44 Years,College Graduate,Middle,Female
+32,0,0,0,1,3,3,65+ Years,<12 Years,Below Poverty,Male
+33,3,2,0,1,4,2,18 - 34 Years,College Graduate,Middle,Female
+34,1,0,0,0,2,1,55 - 64 Years,Some College,Below Poverty,Female
+35,1,1,0,0,1,1,18 - 34 Years,Some College,Middle,Female
+36,0,2,0,1,3,3,55 - 64 Years,<12 Years,Middle,Male
+37,3,0,0,0,2,2,65+ Years,College Graduate,Above Poverty,Male
+38,0,1,1,1,2,1,65+ Years,<12 Years,Above Poverty,Female
+39,0,2,1,0,3,1,18 - 34 Years,Some College,Above Poverty,Female
+40,2,2,0,0,1,4,55 - 64 Years,<12 Years,Below Poverty,Male
+41,2,0,0,1,1,4,65+ Years,College Graduate,Below Poverty,Female
+42,2,0,1,0,5,1,35 - 44 Years,Some College,Middle,Female
+43,1,0,1,0,4,3,35 - 44 Years,12 Years,Middle,Female
+44,3,1,0,0,3,5,55 - 64 Years,Some College,Middle,Female
+45,3,0,0,0,3,5,18 - 34 Years,12 Years,Middle,Male
+46,3,2,0,0,3,1,65+ Years,<12 Years,Below Poverty,Male
+47,3,2,0,0,1,1,18 - 34 Years,<12 Years,Middle,Male
+48,2,0,1,1,4,1,35 - 44 Years,College Graduate,Middle,Female
+49,1,0,0,1,5,3,65+ Years,12 Years,Above Poverty,Female
+50,1,2,0,0,2,4,18 - 34 Years,<12 Years,Middle,Male
+51,2,1,0,1,2,1,45 - 54 Years,12 Years,Middle,Male
+52,1,0,0,1,3,1,55 - 64 Years,<12 Years,Middle,Male
+53,2,0,1,1,4,2,55 - 64 Years,Some College,Below Poverty,Female
+54,3,2,1,0,1,3,45 - 54 Years,<12 Years,Above Poverty,Male
+55,2,0,1,1,4,1,35 - 44 Years,College Graduate,Middle,Female
+56,3,1,0,0,4,2,65+ Years,Some College,Middle,Female
+57,3,2,0,1,1,5,55 - 64 Years,College Graduate,Above Poverty,Male
+58,0,0,1,0,3,1,45 - 54 Years,Some College,Middle,Male
+59,2,2,0,0,4,1,45 - 54 Years,12 Years,Below Poverty,Female
+60,0,0,0,1,2,2,35 - 44 Years,College Graduate,Middle,Male
+61,2,0,1,1,1,3,35 - 44 Years,<12 Years,Below Poverty,Male
+62,2,0,1,0,5,1,18 - 34 Years,12 Years,Below Poverty,Female
+63,0,1,1,1,3,5,55 - 64 Years,<12 Years,Middle,Female
+64,0,1,1,1,1,1,18 - 34 Years,Some College,Above Poverty,Female
+65,2,2,0,1,5,5,45 - 54 Years,Some College,Below Poverty,Female
+66,1,0,0,0,5,4,65+ Years,<12 Years,Above Poverty,Female
+67,3,0,1,0,4,4,65+ Years,<12 Years,Middle,Male
+68,0,1,0,1,4,5,35 - 44 Years,12 Years,Below Poverty,Female
+69,3,0,1,1,4,3,65+ Years,<12 Years,Middle,Female
+70,1,1,1,1,1,1,65+ Years,College Graduate,Above Poverty,Female
+71,1,0,0,0,1,1,65+ Years,College Graduate,Middle,Male
+72,1,2,1,0,3,4,45 - 54 Years,<12 Years,Middle,Female
+73,0,0,0,1,4,5,65+ Years,College Graduate,Below Poverty,Female
+74,1,0,0,1,5,1,65+ Years,<12 Years,Middle,Female
+75,0,1,0,1,2,1,65+ Years,12 Years,Middle,Male
+76,1,0,0,1,3,3,18 - 34 Years,College Graduate,Middle,Female
+77,3,0,1,1,1,2,45 - 54 Years,College Graduate,Below Poverty,Female
+78,3,1,0,1,3,4,35 - 44 Years,<12 Years,Above Poverty,Female
+79,2,2,1,0,3,4,18 - 34 Years,College Graduate,Above Poverty,Male
+80,3,2,1,1,3,2,55 - 64 Years,Some College,Middle,Male
+81,2,1,1,0,3,1,45 - 54 Years,12 Years,Below Poverty,Male
+82,3,1,1,1,2,3,45 - 54 Years,12 Years,Middle,Male
+83,0,1,0,1,4,3,55 - 64 Years,College Graduate,Above Poverty,Female
+84,3,1,0,0,5,4,55 - 64 Years,College Graduate,Below Poverty,Female
+85,2,1,1,0,3,3,55 - 64 Years,Some College,Above Poverty,Male
+86,2,2,1,0,3,2,35 - 44 Years,Some College,Above Poverty,Male
+87,1,2,0,0,3,1,65+ Years,College Graduate,Below Poverty,Female
+88,0,1,1,1,4,2,45 - 54 Years,College Graduate,Below Poverty,Female
+89,3,0,0,0,1,5,65+ Years,Some College,Middle,Male
+90,1,1,1,1,1,4,65+ Years,<12 Years,Middle,Male
+91,3,0,0,0,2,3,55 - 64 Years,Some College,Above Poverty,Male
+92,3,1,1,1,1,5,35 - 44 Years,<12 Years,Below Poverty,Male
+93,1,1,1,1,3,3,18 - 34 Years,12 Years,Below Poverty,Female
+94,1,2,0,1,3,1,35 - 44 Years,12 Years,Middle,Male
+95,1,0,1,1,3,1,65+ Years,Some College,Above Poverty,Male
+96,1,0,1,1,2,1,35 - 44 Years,<12 Years,Above Poverty,Female
+97,1,2,0,1,3,3,55 - 64 Years,Some College,Middle,Female
+98,3,2,1,0,1,5,18 - 34 Years,Some College,Below Poverty,Female
+99,1,2,0,1,4,1,55 - 64 Years,<12 Years,Middle,Female
+100,0,2,0,0,4,5,18 - 34 Years,Some College,Middle,Female
+101,2,0,1,0,5,3,65+ Years,12 Years,Middle,Male
+102,1,0,1,1,1,5,18 - 34 Years,College Graduate,Middle,Male
+103,1,1,1,0,3,3,18 - 34 Years,College Graduate,Below Poverty,Male
+104,3,1,1,1,4,3,18 - 34 Years,Some College,Middle,Female
+105,1,2,1,0,1,4,35 - 44 Years,<12 Years,Below Poverty,Male
+106,1,2,1,1,4,3,35 - 44 Years,<12 Years,Middle,Female
+107,1,2,1,0,3,3,65+ Years,12 Years,Above Poverty,Male
+108,3,1,0,1,4,2,18 - 34 Years,<12 Years,Below Poverty,Male
+109,1,1,1,1,5,1,45 - 54 Years,<12 Years,Above Poverty,Female
+110,2,1,0,1,5,4,65+ Years,12 Years,Middle,Female
+111,3,1,1,1,4,4,18 - 34 Years,Some College,Middle,Male
+112,2,1,1,0,1,4,18 - 34 Years,College Graduate,Middle,Male
+113,3,1,0,1,1,2,35 - 44 Years,12 Years,Below Poverty,Male
+114,1,1,1,0,1,3,65+ Years,Some College,Above Poverty,Male
+115,2,2,1,0,4,1,18 - 34 Years,12 Years,Below Poverty,Male
+116,3,2,0,0,1,5,18 - 34 Years,Some College,Below Poverty,Female
+117,0,2,1,1,3,3,65+ Years,12 Years,Middle,Female
+118,1,2,1,0,5,2,45 - 54 Years,Some College,Above Poverty,Female
+119,3,1,1,0,3,3,65+ Years,12 Years,Middle,Female
+120,0,0,0,0,1,3,65+ Years,Some College,Below Poverty,Male
+121,3,1,1,1,3,2,45 - 54 Years,12 Years,Middle,Male
+122,0,0,1,1,1,4,65+ Years,College Graduate,Above Poverty,Female
+123,1,2,1,0,4,4,18 - 34 Years,College Graduate,Middle,Male
+124,2,1,1,1,3,1,65+ Years,<12 Years,Above Poverty,Female
+125,0,2,0,1,4,1,45 - 54 Years,Some College,Above Poverty,Male
+126,3,1,0,0,4,4,55 - 64 Years,12 Years,Middle,Male
+127,1,2,1,0,2,5,65+ Years,Some College,Below Poverty,Male
+128,0,0,1,1,1,3,35 - 44 Years,College Graduate,Middle,Female
+129,3,0,0,0,5,5,18 - 34 Years,Some College,Below Poverty,Female
+130,3,0,0,1,1,3,18 - 34 Years,12 Years,Below Poverty,Female
+131,3,1,1,1,5,4,35 - 44 Years,Some College,Middle,Female
+132,0,0,0,1,1,1,35 - 44 Years,12 Years,Below Poverty,Male
+133,0,1,1,1,4,1,65+ Years,College Graduate,Below Poverty,Male
+134,0,0,0,1,3,5,35 - 44 Years,College Graduate,Middle,Male
+135,2,0,0,1,3,1,55 - 64 Years,College Graduate,Middle,Male
+136,0,1,0,0,2,4,45 - 54 Years,<12 Years,Middle,Female
+137,0,1,0,0,5,5,35 - 44 Years,College Graduate,Below Poverty,Male
+138,0,0,1,1,5,3,35 - 44 Years,Some College,Above Poverty,Male
+139,2,1,0,1,5,1,55 - 64 Years,<12 Years,Below Poverty,Male
+140,0,0,0,1,4,2,18 - 34 Years,College Graduate,Above Poverty,Female
+141,3,1,1,0,5,1,18 - 34 Years,Some College,Middle,Female
+142,0,2,0,1,3,3,65+ Years,Some College,Above Poverty,Female
+143,3,2,0,0,4,5,55 - 64 Years,Some College,Middle,Male
+144,3,2,1,1,1,3,45 - 54 Years,12 Years,Middle,Female
+145,3,2,0,1,5,2,45 - 54 Years,<12 Years,Above Poverty,Male
+146,2,2,1,0,5,4,55 - 64 Years,Some College,Middle,Male
+147,2,0,1,0,1,1,45 - 54 Years,12 Years,Above Poverty,Male
+148,2,2,1,1,5,5,18 - 34 Years,College Graduate,Middle,Female
+149,0,2,1,1,1,4,45 - 54 Years,Some College,Below Poverty,Female
+150,3,2,0,1,4,3,45 - 54 Years,12 Years,Below Poverty,Male
+151,2,2,1,0,3,5,55 - 64 Years,Some College,Middle,Male
+152,2,1,0,0,1,4,55 - 64 Years,<12 Years,Middle,Female
+153,0,0,0,0,2,5,45 - 54 Years,<12 Years,Above Poverty,Female
+154,2,2,0,0,1,2,35 - 44 Years,College Graduate,Below Poverty,Female
+155,0,2,0,0,5,2,55 - 64 Years,Some College,Above Poverty,Male
+156,1,2,0,0,4,1,65+ Years,12 Years,Middle,Male
+157,2,0,0,1,4,1,65+ Years,College Graduate,Middle,Male
+158,1,1,0,1,1,2,18 - 34 Years,Some College,Above Poverty,Female
+159,0,0,0,0,3,5,45 - 54 Years,College Graduate,Middle,Female
+160,3,1,0,1,2,2,35 - 44 Years,12 Years,Below Poverty,Female
+161,2,2,0,1,4,1,18 - 34 Years,College Graduate,Above Poverty,Male
+162,0,2,1,0,5,2,45 - 54 Years,College Graduate,Below Poverty,Male
+163,3,0,1,1,5,2,55 - 64 Years,College Graduate,Below Poverty,Female
+164,3,0,1,0,3,5,65+ Years,Some College,Below Poverty,Male
+165,1,1,0,0,4,4,35 - 44 Years,12 Years,Above Poverty,Female
+166,0,1,1,1,1,1,65+ Years,<12 Years,Middle,Male
+167,3,0,1,0,5,5,55 - 64 Years,Some College,Below Poverty,Female
+168,2,1,1,0,3,2,45 - 54 Years,<12 Years,Below Poverty,Male
+169,2,0,0,0,4,2,55 - 64 Years,<12 Years,Below Poverty,Male
+170,1,1,0,0,4,4,55 - 64 Years,Some College,Middle,Female
+171,3,0,0,0,4,1,65+ Years,Some College,Middle,Female
+172,0,0,0,0,4,1,35 - 44 Years,12 Years,Above Poverty,Female
+173,2,0,1,0,4,3,55 - 64 Years,12 Years,Middle,Female
+174,3,1,1,0,5,1,65+ Years,College Graduate,Above Poverty,Female
+175,3,1,1,1,3,4,35 - 44 Years,<12 Years,Above Poverty,Male
+176,1,1,1,1,4,3,45 - 54 Years,12 Years,Above Poverty,Female
+177,2,0,0,1,2,3,45 - 54 Years,College Graduate,Above Poverty,Female
+178,2,1,0,0,2,2,18 - 34 Years,12 Years,Above Poverty,Female
+179,0,1,0,0,3,2,65+ Years,Some College,Below Poverty,Male
+180,2,0,1,1,1,1,35 - 44 Years,12 Years,Middle,Female
+181,0,2,0,1,1,3,55 - 64 Years,<12 Years,Below Poverty,Female
+182,2,0,0,1,1,2,45 - 54 Years,12 Years,Above Poverty,Female
+183,1,1,1,0,2,4,35 - 44 Years,<12 Years,Middle,Male
+184,2,0,1,1,1,2,65+ Years,Some College,Below Poverty,Male
+185,0,2,0,1,5,2,18 - 34 Years,<12 Years,Below Poverty,Female
+186,0,0,0,0,4,3,45 - 54 Years,12 Years,Above Poverty,Male
+187,1,1,0,1,2,3,35 - 44 Years,College Graduate,Below Poverty,Female
+188,2,2,0,0,3,5,35 - 44 Years,Some College,Below Poverty,Male
+189,2,1,0,0,3,4,35 - 44 Years,12 Years,Below Poverty,Female
+190,1,2,0,0,4,3,65+ Years,Some College,Below Poverty,Male
+191,2,2,1,1,2,1,65+ Years,Some College,Below Poverty,Female
+192,2,0,1,1,1,4,65+ Years,12 Years,Above Poverty,Female
+193,0,0,1,0,1,4,55 - 64 Years,12 Years,Above Poverty,Male
+194,2,1,0,1,5,3,35 - 44 Years,College Graduate,Below Poverty,Female
+195,2,0,1,1,5,4,45 - 54 Years,Some College,Above Poverty,Female
+196,1,0,0,1,1,3,65+ Years,Some College,Above Poverty,Female
+197,1,2,0,1,3,2,65+ Years,12 Years,Middle,Female
+198,3,0,1,0,3,5,35 - 44 Years,<12 Years,Below Poverty,Male
+199,0,2,0,1,5,2,65+ Years,12 Years,Above Poverty,Female
+200,2,2,0,0,4,3,55 - 64 Years,Some College,Above Poverty,Male
+201,2,2,1,0,1,3,55 - 64 Years,12 Years,Below Poverty,Male
+202,3,1,1,1,5,2,65+ Years,College Graduate,Middle,Male
+203,2,1,1,0,5,1,35 - 44 Years,<12 Years,Below Poverty,Male
+204,0,1,0,1,1,1,35 - 44 Years,12 Years,Middle,Female
+205,3,2,1,1,1,1,35 - 44 Years,College Graduate,Below Poverty,Female
+206,0,1,1,0,3,3,18 - 34 Years,Some College,Below Poverty,Male
+207,3,1,0,0,4,4,65+ Years,12 Years,Below Poverty,Female
+208,3,0,1,0,4,3,35 - 44 Years,Some College,Below Poverty,Male
+209,1,1,1,0,1,4,55 - 64 Years,College Graduate,Middle,Female
+210,0,1,1,1,2,2,45 - 54 Years,Some College,Middle,Female
+211,2,2,0,1,5,5,45 - 54 Years,College Graduate,Above Poverty,Female
+212,2,2,0,1,5,4,35 - 44 Years,College Graduate,Below Poverty,Male
+213,0,2,0,0,1,1,45 - 54 Years,College Graduate,Middle,Male
+214,2,2,0,0,2,3,45 - 54 Years,12 Years,Middle,Female
+215,2,2,1,0,3,2,18 - 34 Years,Some College,Middle,Male
+216,0,2,0,1,1,1,55 - 64 Years,Some College,Below Poverty,Male
+217,3,1,0,0,1,2,55 - 64 Years,<12 Years,Above Poverty,Female
+218,0,2,1,1,5,5,18 - 34 Years,<12 Years,Middle,Male
+219,3,2,1,0,1,3,18 - 34 Years,<12 Years,Below Poverty,Female
+220,2,0,1,1,1,3,45 - 54 Years,<12 Years,Middle,Female
+221,2,1,0,1,1,5,65+ Years,Some College,Middle,Female
+222,2,1,0,0,5,3,45 - 54 Years,College Graduate,Above Poverty,Male
+223,1,1,0,0,3,4,18 - 34 Years,College Graduate,Middle,Female
+224,3,2,1,1,3,2,55 - 64 Years,12 Years,Middle,Female
+225,1,2,1,1,1,1,45 - 54 Years,College Graduate,Below Poverty,Male
+226,1,2,0,0,5,5,65+ Years,Some College,Below Poverty,Male
+227,0,0,1,0,3,4,45 - 54 Years,Some College,Above Poverty,Male
+228,1,2,1,1,3,1,35 - 44 Years,Some College,Below Poverty,Male
+229,0,0,1,0,3,1,45 - 54 Years,12 Years,Below Poverty,Female
+230,0,1,0,1,5,5,18 - 34 Years,<12 Years,Above Poverty,Male
+231,1,2,1,1,5,4,55 - 64 Years,College Graduate,Middle,Male
+232,3,0,1,0,1,1,55 - 64 Years,Some College,Above Poverty,Male
+233,3,0,0,0,4,1,18 - 34 Years,Some College,Below Poverty,Male
+234,3,2,0,0,3,4,35 - 44 Years,<12 Years,Above Poverty,Female
+235,3,1,1,0,4,3,18 - 34 Years,Some College,Middle,Male
+236,3,1,1,0,5,1,45 - 54 Years,College Graduate,Above Poverty,Female
+237,1,1,0,1,5,2,18 - 34 Years,12 Years,Below Poverty,Male
+238,1,0,0,1,5,4,18 - 34 Years,Some College,Below Poverty,Female
+239,2,0,1,0,4,1,35 - 44 Years,College Graduate,Above Poverty,Female
+240,3,0,1,0,5,5,45 - 54 Years,Some College,Middle,Male
+241,1,0,1,0,1,2,65+ Years,<12 Years,Above Poverty,Female
+242,2,1,1,1,5,1,65+ Years,Some College,Middle,Male
+243,3,2,0,0,2,2,55 - 64 Years,Some College,Middle,Female
+244,0,0,1,0,4,2,18 - 34 Years,12 Years,Above Poverty,Female
+245,2,0,1,1,2,3,55 - 64 Years,<12 Years,Middle,Female
+246,1,1,0,1,5,2,35 - 44 Years,<12 Years,Below Poverty,Male
+247,0,2,1,0,1,3,65+ Years,12 Years,Above Poverty,Female
+248,0,2,0,0,3,4,18 - 34 Years,Some College,Middle,Male
+249,0,1,1,0,5,3,35 - 44 Years,College Graduate,Below Poverty,Female
+250,2,1,1,1,1,5,35 - 44 Years,<12 Years,Above Poverty,Female
+251,1,2,0,0,4,1,18 - 34 Years,<12 Years,Below Poverty,Female
+252,0,0,0,0,2,4,35 - 44 Years,Some College,Below Poverty,Female
+253,3,2,1,0,2,4,18 - 34 Years,Some College,Below Poverty,Female
+254,0,1,1,1,2,5,18 - 34 Years,<12 Years,Middle,Female
+255,0,0,1,1,4,3,45 - 54 Years,Some College,Above Poverty,Male
+256,2,0,0,0,1,1,55 - 64 Years,College Graduate,Above Poverty,Male
+257,2,1,1,0,4,3,35 - 44 Years,<12 Years,Middle,Male
+258,1,1,0,1,2,2,35 - 44 Years,College Graduate,Above Poverty,Female
+259,3,1,0,1,5,3,45 - 54 Years,College Graduate,Below Poverty,Male
+260,2,2,1,1,3,4,45 - 54 Years,Some College,Above Poverty,Female
+261,0,2,0,1,4,1,45 - 54 Years,College Graduate,Middle,Male
+262,1,0,1,1,4,3,65+ Years,Some College,Below Poverty,Male
+263,0,1,1,1,1,1,65+ Years,12 Years,Middle,Female
+264,0,0,1,1,1,1,65+ Years,Some College,Below Poverty,Female
+265,2,0,1,1,4,2,18 - 34 Years,College Graduate,Below Poverty,Male
+266,1,0,1,1,2,2,35 - 44 Years,12 Years,Above Poverty,Male
+267,3,0,0,0,3,4,55 - 64 Years,Some College,Below Poverty,Male
+268,3,1,0,0,1,5,18 - 34 Years,College Graduate,Middle,Male
+269,2,0,1,0,2,1,35 - 44 Years,<12 Years,Above Poverty,Female
+270,2,1,1,1,5,5,35 - 44 Years,<12 Years,Middle,Male
+271,1,1,0,0,1,4,45 - 54 Years,Some College,Below Poverty,Female
+272,3,2,0,1,2,1,45 - 54 Years,Some College,Middle,Female
+273,3,1,0,1,2,1,18 - 34 Years,<12 Years,Middle,Male
+274,3,2,0,0,3,5,45 - 54 Years,College Graduate,Below Poverty,Female
+275,0,1,1,1,3,3,35 - 44 Years,College Graduate,Above Poverty,Male
+276,3,1,1,0,5,2,45 - 54 Years,College Graduate,Middle,Female
+277,0,1,0,0,2,3,65+ Years,Some College,Below Poverty,Female
+278,1,2,1,0,2,5,45 - 54 Years,12 Years,Above Poverty,Male
+279,0,2,0,1,3,2,35 - 44 Years,12 Years,Above Poverty,Female
+280,1,0,1,0,1,3,18 - 34 Years,12 Years,Above Poverty,Female
+281,3,2,0,1,1,2,55 - 64 Years,12 Years,Middle,Male
+282,3,2,1,0,4,1,45 - 54 Years,12 Years,Middle,Female
+283,1,2,0,0,3,3,35 - 44 Years,Some College,Middle,Female
+284,2,2,0,0,4,2,55 - 64 Years,Some College,Above Poverty,Male
+285,1,0,1,1,3,2,55 - 64 Years,12 Years,Middle,Male
+286,2,2,0,1,5,2,65+ Years,Some College,Below Poverty,Female
+287,0,1,1,1,2,3,55 - 64 Years,Some College,Middle,Female
+288,0,1,1,0,5,4,35 - 44 Years,12 Years,Middle,Female
+289,0,2,0,0,3,3,35 - 44 Years,College Graduate,Above Poverty,Male
+290,3,2,1,1,2,5,45 - 54 Years,Some College,Middle,Female
+291,0,1,1,1,1,3,45 - 54 Years,College Graduate,Below Poverty,Female
+292,2,1,1,1,1,2,45 - 54 Years,Some College,Above Poverty,Female
+293,0,0,1,1,4,1,55 - 64 Years,Some College,Below Poverty,Female
+294,1,1,1,1,3,3,55 - 64 Years,12 Years,Above Poverty,Female
+295,1,1,0,1,3,3,65+ Years,Some College,Above Poverty,Female
+296,3,2,1,0,1,2,45 - 54 Years,<12 Years,Middle,Male
+297,1,1,1,1,5,1,18 - 34 Years,<12 Years,Below Poverty,Male
+298,2,0,1,0,2,1,65+ Years,12 Years,Above Poverty,Female
+299,0,1,1,0,5,5,18 - 34 Years,College Graduate,Middle,Female
+300,3,2,1,1,5,3,55 - 64 Years,College Graduate,Above Poverty,Male
+301,0,2,0,1,1,1,65+ Years,College Graduate,Above Poverty,Male
+302,0,1,1,0,1,1,65+ Years,<12 Years,Above Poverty,Male
+303,2,2,0,1,1,4,35 - 44 Years,College Graduate,Above Poverty,Female
+304,1,0,0,1,4,4,55 - 64 Years,College Graduate,Above Poverty,Female
+305,1,0,0,0,5,1,55 - 64 Years,12 Years,Above Poverty,Female
+306,0,1,0,0,3,5,65+ Years,College Graduate,Middle,Female
+307,3,1,1,0,2,1,55 - 64 Years,<12 Years,Above Poverty,Male
+308,1,1,0,1,4,2,65+ Years,<12 Years,Below Poverty,Male
+309,3,2,0,0,3,3,35 - 44 Years,<12 Years,Middle,Male
+310,1,0,1,1,5,5,65+ Years,12 Years,Below Poverty,Male
+311,3,0,1,0,1,2,55 - 64 Years,12 Years,Above Poverty,Female
+312,2,2,1,0,5,5,55 - 64 Years,Some College,Below Poverty,Female
+313,3,0,0,0,2,2,65+ Years,College Graduate,Above Poverty,Male
+314,2,1,1,1,4,3,65+ Years,12 Years,Above Poverty,Male
+315,2,1,1,1,4,3,65+ Years,<12 Years,Middle,Male
+316,3,1,0,0,2,4,45 - 54 Years,<12 Years,Middle,Male
+317,2,0,1,0,3,2,55 - 64 Years,12 Years,Above Poverty,Male
+318,0,1,1,0,3,4,55 - 64 Years,12 Years,Middle,Female
+319,2,2,1,1,4,2,45 - 54 Years,12 Years,Below Poverty,Female
+320,1,2,1,0,4,4,65+ Years,Some College,Middle,Male
+321,3,0,0,1,1,3,35 - 44 Years,<12 Years,Middle,Male
+322,0,2,1,0,3,5,65+ Years,Some College,Below Poverty,Male
+323,3,2,1,0,2,4,65+ Years,Some College,Middle,Female
+324,1,0,0,0,3,2,45 - 54 Years,College Graduate,Above Poverty,Female
+325,1,1,1,0,1,2,55 - 64 Years,<12 Years,Below Poverty,Female
+326,1,1,0,0,4,3,65+ Years,<12 Years,Above Poverty,Male
+327,2,1,1,0,4,2,55 - 64 Years,12 Years,Below Poverty,Female
+328,2,0,0,1,1,1,18 - 34 Years,12 Years,Above Poverty,Male
+329,3,2,0,0,2,5,55 - 64 Years,College Graduate,Above Poverty,Female
+330,3,1,0,1,4,4,35 - 44 Years,Some College,Middle,Female
+331,0,1,0,0,5,5,35 - 44 Years,12 Years,Above Poverty,Female
+332,0,0,1,0,4,3,65+ Years,12 Years,Middle,Male
+333,3,1,0,1,5,4,55 - 64 Years,<12 Years,Below Poverty,Male
+334,2,0,1,0,1,4,65+ Years,<12 Years,Above Poverty,Female
+335,1,2,0,1,1,1,45 - 54 Years,12 Years,Above Poverty,Male
+336,3,0,0,1,4,3,35 - 44 Years,<12 Years,Below Poverty,Male
+337,0,0,0,0,3,2,65+ Years,College Graduate,Below Poverty,Male
+338,2,0,1,1,5,1,45 - 54 Years,12 Years,Above Poverty,Male
+339,3,0,0,1,2,1,65+ Years,<12 Years,Below Poverty,Male
+340,3,2,1,0,4,5,55 - 64 Years,College Graduate,Middle,Male
+341,2,2,1,1,2,5,55 - 64 Years,<12 Years,Below Poverty,Male
+342,3,1,1,0,4,5,55 - 64 Years,<12 Years,Below Poverty,Female
+343,2,2,1,0,3,1,55 - 64 Years,<12 Years,Above Poverty,Male
+344,1,2,1,0,3,2,18 - 34 Years,12 Years,Middle,Male
+345,2,1,1,0,3,4,45 - 54 Years,Some College,Below Poverty,Female
+346,2,2,1,1,3,5,45 - 54 Years,<12 Years,Middle,Female
+347,2,0,1,0,1,2,55 - 64 Years,College Graduate,Middle,Female
+348,3,0,1,0,1,3,18 - 34 Years,12 Years,Middle,Female
+349,3,1,0,1,5,5,55 - 64 Years,12 Years,Above Poverty,Male
+350,2,1,0,0,2,4,18 - 34 Years,College Graduate,Below Poverty,Female
+351,3,1,0,0,4,3,55 - 64 Years,<12 Years,Above Poverty,Female
+352,0,0,0,1,4,3,35 - 44 Years,Some College,Below Poverty,Male
+353,0,2,0,1,1,4,35 - 44 Years,<12 Years,Below Poverty,Male
+354,3,0,1,1,4,5,65+ Years,College Graduate,Above Poverty,Male
+355,3,1,1,1,1,1,55 - 64 Years,12 Years,Middle,Female
+356,2,2,1,1,5,4,45 - 54 Years,Some College,Middle,Male
+357,1,2,1,1,2,4,65+ Years,12 Years,Below Poverty,Female
+358,3,0,1,1,5,4,35 - 44 Years,College Graduate,Above Poverty,Male
+359,0,1,1,0,3,3,55 - 64 Years,<12 Years,Middle,Male
+360,2,0,1,1,3,2,65+ Years,Some College,Middle,Female
+361,3,2,0,1,3,1,55 - 64 Years,12 Years,Below Poverty,Male
+362,0,0,0,1,5,5,35 - 44 Years,12 Years,Below Poverty,Male
+363,0,0,0,0,4,5,65+ Years,12 Years,Above Poverty,Male
+364,1,1,0,0,2,2,35 - 44 Years,<12 Years,Below Poverty,Male
+365,2,1,1,1,3,4,18 - 34 Years,Some College,Middle,Male
+366,2,2,1,1,3,1,35 - 44 Years,<12 Years,Middle,Female
+367,1,0,1,1,3,5,55 - 64 Years,<12 Years,Middle,Female
+368,1,0,0,0,2,5,45 - 54 Years,<12 Years,Middle,Male
+369,2,0,1,0,3,4,35 - 44 Years,College Graduate,Above Poverty,Female
+370,2,2,1,1,2,2,45 - 54 Years,College Graduate,Above Poverty,Female
+371,3,2,1,0,3,1,18 - 34 Years,College Graduate,Below Poverty,Female
+372,3,1,0,1,5,2,65+ Years,Some College,Below Poverty,Male
+373,1,1,1,0,5,2,65+ Years,<12 Years,Below Poverty,Male
+374,3,1,0,0,2,1,45 - 54 Years,<12 Years,Above Poverty,Male
+375,0,0,0,1,5,1,65+ Years,College Graduate,Middle,Female
+376,3,0,0,1,2,5,35 - 44 Years,<12 Years,Below Poverty,Female
+377,3,1,0,1,5,5,45 - 54 Years,<12 Years,Middle,Male
+378,0,0,1,1,5,1,55 - 64 Years,12 Years,Below Poverty,Male
+379,1,1,0,0,2,3,35 - 44 Years,<12 Years,Below Poverty,Female
+380,0,2,0,0,4,5,35 - 44 Years,12 Years,Below Poverty,Female
+381,3,1,1,0,5,3,35 - 44 Years,<12 Years,Below Poverty,Male
+382,1,2,1,1,3,1,55 - 64 Years,Some College,Below Poverty,Female
+383,3,0,0,0,4,5,18 - 34 Years,College Graduate,Middle,Female
+384,0,1,1,1,2,2,65+ Years,12 Years,Below Poverty,Female
+385,0,0,0,0,4,1,45 - 54 Years,College Graduate,Middle,Female
+386,3,2,0,1,1,4,18 - 34 Years,12 Years,Above Poverty,Female
+387,2,2,0,1,1,3,45 - 54 Years,12 Years,Below Poverty,Female
+388,2,2,0,0,5,1,65+ Years,12 Years,Middle,Female
+389,0,0,1,1,5,1,55 - 64 Years,Some College,Above Poverty,Male
+390,0,0,0,1,3,5,35 - 44 Years,<12 Years,Above Poverty,Male
+391,2,0,1,0,4,5,35 - 44 Years,12 Years,Above Poverty,Female
+392,2,0,1,1,1,5,55 - 64 Years,Some College,Middle,Female
+393,3,2,1,1,5,4,18 - 34 Years,12 Years,Below Poverty,Female
+394,3,2,1,1,4,5,18 - 34 Years,<12 Years,Below Poverty,Male
+395,2,1,0,0,5,1,45 - 54 Years,12 Years,Middle,Male
+396,3,1,1,0,5,5,55 - 64 Years,Some College,Below Poverty,Female
+397,3,0,0,1,1,2,18 - 34 Years,<12 Years,Middle,Male
+398,1,2,1,0,1,5,55 - 64 Years,Some College,Below Poverty,Female
+399,3,2,1,1,5,4,65+ Years,<12 Years,Above Poverty,Female
+400,0,2,0,1,2,2,35 - 44 Years,<12 Years,Below Poverty,Female
+401,3,1,0,1,5,1,35 - 44 Years,College Graduate,Middle,Female
+402,3,1,0,1,5,1,35 - 44 Years,College Graduate,Middle,Female
+403,2,2,1,1,3,3,55 - 64 Years,College Graduate,Above Poverty,Female
+404,0,2,1,0,3,2,55 - 64 Years,<12 Years,Middle,Female
+405,3,2,0,1,3,3,45 - 54 Years,12 Years,Below Poverty,Male
+406,3,1,0,0,2,2,35 - 44 Years,Some College,Below Poverty,Female
+407,1,2,0,0,2,2,45 - 54 Years,Some College,Above Poverty,Male
+408,3,2,0,1,5,4,35 - 44 Years,Some College,Middle,Female
+409,3,0,1,1,3,3,45 - 54 Years,College Graduate,Above Poverty,Female
+410,1,0,0,0,2,4,45 - 54 Years,<12 Years,Below Poverty,Male
+411,2,1,0,0,1,2,65+ Years,College Graduate,Above Poverty,Male
+412,3,2,0,0,5,1,45 - 54 Years,12 Years,Middle,Female
+413,1,2,0,1,4,2,55 - 64 Years,<12 Years,Above Poverty,Male
+414,0,0,1,0,5,4,45 - 54 Years,Some College,Middle,Female
+415,2,1,0,1,4,3,35 - 44 Years,College Graduate,Middle,Female
+416,0,0,1,1,3,3,45 - 54 Years,College Graduate,Below Poverty,Male
+417,0,0,0,1,4,4,18 - 34 Years,12 Years,Below Poverty,Male
+418,1,0,0,0,3,3,35 - 44 Years,12 Years,Below Poverty,Male
+419,3,0,1,1,1,5,18 - 34 Years,College Graduate,Middle,Male
+420,1,2,0,1,4,1,35 - 44 Years,12 Years,Above Poverty,Female
+421,1,2,1,1,5,1,55 - 64 Years,Some College,Middle,Male
+422,1,0,1,1,3,1,55 - 64 Years,12 Years,Below Poverty,Male
+423,1,1,0,1,5,3,55 - 64 Years,12 Years,Below Poverty,Male
+424,2,1,1,0,2,3,18 - 34 Years,College Graduate,Above Poverty,Male
+425,3,1,1,1,3,2,65+ Years,College Graduate,Below Poverty,Male
+426,0,1,1,1,4,2,35 - 44 Years,<12 Years,Below Poverty,Female
+427,0,0,1,0,3,1,55 - 64 Years,<12 Years,Below Poverty,Female
+428,3,2,1,1,5,5,35 - 44 Years,College Graduate,Above Poverty,Male
+429,0,1,1,0,1,2,18 - 34 Years,12 Years,Middle,Male
+430,3,0,1,1,3,2,65+ Years,12 Years,Below Poverty,Female
+431,0,1,1,0,4,3,18 - 34 Years,<12 Years,Above Poverty,Male
+432,1,1,0,0,2,5,35 - 44 Years,<12 Years,Below Poverty,Female
+433,0,0,0,1,1,1,65+ Years,<12 Years,Above Poverty,Female
+434,3,2,1,1,2,2,65+ Years,Some College,Below Poverty,Male
+435,3,2,0,1,3,5,18 - 34 Years,Some College,Above Poverty,Female
+436,3,0,1,0,5,5,55 - 64 Years,<12 Years,Below Poverty,Male
+437,3,2,1,0,5,1,35 - 44 Years,12 Years,Middle,Male
+438,3,0,0,0,4,5,45 - 54 Years,<12 Years,Below Poverty,Female
+439,2,0,1,1,5,5,45 - 54 Years,Some College,Above Poverty,Female
+440,2,0,1,0,1,5,18 - 34 Years,12 Years,Below Poverty,Male
+441,0,2,1,0,5,2,35 - 44 Years,Some College,Middle,Female
+442,3,0,1,1,4,1,35 - 44 Years,12 Years,Below Poverty,Male
+443,0,1,0,0,3,5,18 - 34 Years,Some College,Above Poverty,Female
+444,3,2,1,0,3,5,35 - 44 Years,12 Years,Above Poverty,Female
+445,3,2,1,1,5,2,55 - 64 Years,12 Years,Middle,Male
+446,2,2,1,0,2,1,18 - 34 Years,12 Years,Above Poverty,Male
+447,2,2,0,1,3,3,55 - 64 Years,12 Years,Below Poverty,Male
+448,1,1,1,1,5,2,35 - 44 Years,College Graduate,Below Poverty,Female
+449,2,2,0,1,4,1,18 - 34 Years,Some College,Below Poverty,Male
+450,1,2,0,1,5,5,35 - 44 Years,Some College,Above Poverty,Male
+451,1,0,1,1,3,1,18 - 34 Years,College Graduate,Below Poverty,Female
+452,1,2,1,0,4,1,35 - 44 Years,12 Years,Below Poverty,Female
+453,1,1,0,0,5,1,55 - 64 Years,12 Years,Below Poverty,Male
+454,1,1,1,1,1,3,55 - 64 Years,Some College,Middle,Male
+455,0,1,0,1,4,1,35 - 44 Years,College Graduate,Above Poverty,Male
+456,2,1,0,0,1,3,18 - 34 Years,12 Years,Above Poverty,Male
+457,1,2,1,1,2,5,45 - 54 Years,12 Years,Above Poverty,Female
+458,3,2,1,1,4,3,55 - 64 Years,12 Years,Middle,Female
+459,2,1,0,1,1,5,55 - 64 Years,<12 Years,Above Poverty,Male
+460,2,1,0,0,3,5,45 - 54 Years,College Graduate,Middle,Male
+461,1,2,0,0,3,3,35 - 44 Years,12 Years,Middle,Male
+462,0,1,0,1,2,2,18 - 34 Years,<12 Years,Above Poverty,Female
+463,1,0,1,1,4,4,35 - 44 Years,College Graduate,Below Poverty,Male
+464,0,1,1,0,4,1,65+ Years,12 Years,Below Poverty,Male
+465,3,1,1,0,4,4,55 - 64 Years,Some College,Above Poverty,Female
+466,2,0,1,1,2,1,65+ Years,<12 Years,Above Poverty,Female
+467,3,0,1,1,4,1,55 - 64 Years,<12 Years,Middle,Male
+468,0,2,0,0,3,5,55 - 64 Years,12 Years,Above Poverty,Male
+469,0,2,1,0,1,1,65+ Years,12 Years,Middle,Female
+470,3,0,1,0,3,1,65+ Years,<12 Years,Above Poverty,Male
+471,0,0,1,1,3,3,35 - 44 Years,Some College,Below Poverty,Male
+472,3,2,1,0,1,4,65+ Years,Some College,Below Poverty,Female
+473,2,1,1,1,3,3,35 - 44 Years,College Graduate,Above Poverty,Female
+474,3,0,0,0,2,1,35 - 44 Years,12 Years,Middle,Female
+475,2,2,0,0,1,5,35 - 44 Years,Some College,Below Poverty,Male
+476,3,1,0,0,3,3,55 - 64 Years,College Graduate,Middle,Female
+477,0,0,1,0,5,3,55 - 64 Years,Some College,Above Poverty,Female
+478,3,1,0,1,3,2,65+ Years,12 Years,Above Poverty,Male
+479,0,2,0,1,2,1,55 - 64 Years,College Graduate,Below Poverty,Male
+480,3,0,1,0,4,5,65+ Years,College Graduate,Above Poverty,Female
+481,3,1,1,1,3,3,55 - 64 Years,College Graduate,Below Poverty,Female
+482,1,0,1,0,4,3,18 - 34 Years,Some College,Middle,Male
+483,0,1,0,0,5,5,18 - 34 Years,12 Years,Below Poverty,Male
+484,1,2,0,0,3,1,65+ Years,College Graduate,Below Poverty,Female
+485,0,2,1,0,1,2,55 - 64 Years,<12 Years,Middle,Female
+486,1,0,1,1,4,3,55 - 64 Years,12 Years,Below Poverty,Male
+487,2,1,0,0,5,2,35 - 44 Years,<12 Years,Below Poverty,Female
+488,3,0,0,0,1,4,45 - 54 Years,<12 Years,Above Poverty,Male
+489,0,0,1,1,1,1,65+ Years,College Graduate,Middle,Female
+490,0,1,1,0,1,4,45 - 54 Years,College Graduate,Below Poverty,Male
+491,3,1,0,0,1,4,45 - 54 Years,Some College,Middle,Male
+492,0,1,1,0,3,4,65+ Years,Some College,Middle,Female
+493,0,2,0,1,3,1,55 - 64 Years,Some College,Below Poverty,Female
+494,1,0,0,0,3,1,65+ Years,12 Years,Above Poverty,Male
+495,0,0,0,1,5,5,45 - 54 Years,Some College,Middle,Female
+496,2,2,0,0,5,2,55 - 64 Years,<12 Years,Below Poverty,Female
+497,2,1,1,0,5,2,18 - 34 Years,Some College,Middle,Female
+498,3,2,1,1,2,5,65+ Years,College Graduate,Above Poverty,Male
+499,0,2,0,0,5,5,65+ Years,Some College,Above Poverty,Female
+500,3,2,0,0,3,4,55 - 64 Years,12 Years,Above Poverty,Female
+501,2,0,0,1,3,5,18 - 34 Years,12 Years,Below Poverty,Male
+502,0,2,0,1,2,3,18 - 34 Years,<12 Years,Below Poverty,Female
+503,0,0,0,1,2,2,55 - 64 Years,12 Years,Above Poverty,Female
+504,3,0,1,1,5,5,35 - 44 Years,Some College,Below Poverty,Male
+505,2,0,1,1,4,3,65+ Years,College Graduate,Above Poverty,Male
+506,0,1,1,0,2,3,65+ Years,12 Years,Below Poverty,Female
+507,3,0,1,1,1,3,45 - 54 Years,<12 Years,Above Poverty,Female
+508,2,0,0,0,3,3,55 - 64 Years,Some College,Middle,Male
+509,3,1,0,0,1,4,45 - 54 Years,<12 Years,Above Poverty,Male
+510,1,0,0,0,3,3,45 - 54 Years,12 Years,Above Poverty,Female
+511,0,2,0,1,3,4,18 - 34 Years,12 Years,Below Poverty,Female
+512,1,2,0,1,2,4,65+ Years,<12 Years,Below Poverty,Female
+513,2,0,1,0,2,3,45 - 54 Years,Some College,Below Poverty,Male
+514,1,1,0,1,1,2,18 - 34 Years,12 Years,Below Poverty,Female
+515,1,2,1,1,3,3,55 - 64 Years,College Graduate,Below Poverty,Male
+516,2,1,1,1,1,3,45 - 54 Years,12 Years,Below Poverty,Male
+517,3,1,1,1,4,3,65+ Years,Some College,Middle,Male
+518,1,2,1,0,1,2,45 - 54 Years,12 Years,Above Poverty,Female
+519,3,1,0,0,5,1,55 - 64 Years,<12 Years,Above Poverty,Female
+520,1,2,1,1,1,1,45 - 54 Years,12 Years,Above Poverty,Female
+521,3,1,1,0,5,4,65+ Years,12 Years,Middle,Male
+522,2,2,1,1,5,4,18 - 34 Years,Some College,Above Poverty,Female
+523,1,0,0,1,5,2,65+ Years,<12 Years,Middle,Male
+524,2,2,0,0,4,5,18 - 34 Years,Some College,Middle,Male
+525,1,2,0,0,1,1,35 - 44 Years,12 Years,Middle,Male
+526,2,2,1,0,1,4,65+ Years,College Graduate,Above Poverty,Male
+527,2,2,1,1,4,1,65+ Years,12 Years,Middle,Male
+528,1,1,0,0,3,2,55 - 64 Years,Some College,Above Poverty,Male
+529,1,0,1,1,2,2,45 - 54 Years,College Graduate,Above Poverty,Female
+530,1,2,0,0,1,5,18 - 34 Years,Some College,Below Poverty,Male
+531,0,1,0,0,2,5,18 - 34 Years,Some College,Below Poverty,Female
+532,3,0,1,1,4,2,55 - 64 Years,<12 Years,Middle,Male
+533,0,0,1,1,3,4,55 - 64 Years,College Graduate,Middle,Female
+534,0,0,1,1,3,1,45 - 54 Years,12 Years,Above Poverty,Female
+535,2,0,1,1,3,3,45 - 54 Years,Some College,Middle,Female
+536,1,2,0,1,4,5,65+ Years,12 Years,Middle,Female
+537,3,2,0,1,5,3,35 - 44 Years,<12 Years,Above Poverty,Male
+538,2,1,0,1,5,4,45 - 54 Years,<12 Years,Middle,Male
+539,0,1,0,1,2,5,55 - 64 Years,College Graduate,Middle,Male
+540,1,1,0,0,5,3,45 - 54 Years,<12 Years,Above Poverty,Male
+541,2,0,1,1,5,4,18 - 34 Years,<12 Years,Above Poverty,Female
+542,1,0,0,1,3,1,35 - 44 Years,12 Years,Below Poverty,Female
+543,2,2,0,0,3,4,65+ Years,<12 Years,Above Poverty,Female
+544,1,0,0,1,2,5,18 - 34 Years,<12 Years,Below Poverty,Male
+545,0,0,1,0,1,2,18 - 34 Years,Some College,Middle,Female
+546,3,0,1,0,2,1,35 - 44 Years,<12 Years,Above Poverty,Male
+547,0,1,1,1,2,3,65+ Years,Some College,Above Poverty,Female
+548,3,1,1,0,4,5,55 - 64 Years,<12 Years,Above Poverty,Female
+549,1,2,0,1,4,2,65+ Years,<12 Years,Middle,Female
+550,2,0,0,0,2,4,45 - 54 Years,College Graduate,Below Poverty,Female
+551,0,0,1,0,2,2,18 - 34 Years,College Graduate,Middle,Female
+552,3,2,1,0,2,5,45 - 54 Years,Some College,Middle,Male
+553,0,0,0,1,5,5,55 - 64 Years,<12 Years,Above Poverty,Female
+554,3,0,0,1,4,2,45 - 54 Years,12 Years,Below Poverty,Male
+555,0,1,1,0,2,4,65+ Years,College Graduate,Middle,Male
+556,3,2,1,0,3,2,45 - 54 Years,12 Years,Above Poverty,Male
+557,3,2,1,1,3,5,55 - 64 Years,College Graduate,Middle,Male
+558,1,2,1,1,5,5,55 - 64 Years,College Graduate,Middle,Male
+559,3,2,0,0,5,3,55 - 64 Years,<12 Years,Above Poverty,Male
+560,1,1,0,0,1,3,65+ Years,College Graduate,Above Poverty,Male
+561,3,1,0,1,1,1,55 - 64 Years,12 Years,Below Poverty,Male
+562,2,0,1,1,1,5,18 - 34 Years,College Graduate,Middle,Female
+563,2,0,1,1,5,3,55 - 64 Years,Some College,Above Poverty,Female
+564,2,0,0,1,5,2,45 - 54 Years,<12 Years,Above Poverty,Male
+565,3,0,0,1,5,4,45 - 54 Years,<12 Years,Below Poverty,Male
+566,1,1,0,0,3,2,45 - 54 Years,Some College,Below Poverty,Male
+567,1,2,0,1,5,4,65+ Years,Some College,Above Poverty,Female
+568,3,1,1,0,3,3,45 - 54 Years,Some College,Below Poverty,Female
+569,2,0,0,1,1,1,65+ Years,College Graduate,Above Poverty,Male
+570,2,1,0,0,1,2,65+ Years,<12 Years,Middle,Male
+571,1,2,0,1,1,2,55 - 64 Years,Some College,Below Poverty,Female
+572,2,2,0,1,2,2,18 - 34 Years,College Graduate,Middle,Female
+573,0,1,0,0,2,4,55 - 64 Years,Some College,Middle,Male
+574,1,1,0,0,4,3,55 - 64 Years,12 Years,Middle,Male
+575,2,1,0,1,4,2,65+ Years,12 Years,Above Poverty,Male
+576,1,0,1,1,4,2,65+ Years,<12 Years,Middle,Male
+577,0,1,1,1,2,1,45 - 54 Years,College Graduate,Middle,Female
+578,1,1,1,1,2,1,45 - 54 Years,12 Years,Middle,Female
+579,1,1,1,1,4,3,55 - 64 Years,12 Years,Above Poverty,Male
+580,1,2,0,0,4,3,35 - 44 Years,College Graduate,Middle,Male
+581,1,2,1,0,5,5,35 - 44 Years,Some College,Middle,Male
+582,0,0,1,1,4,1,45 - 54 Years,College Graduate,Below Poverty,Female
+583,3,0,0,0,5,5,35 - 44 Years,Some College,Above Poverty,Male
+584,1,2,0,0,3,4,45 - 54 Years,12 Years,Middle,Male
+585,1,2,1,0,2,5,65+ Years,12 Years,Below Poverty,Male
+586,2,2,1,1,4,2,55 - 64 Years,12 Years,Above Poverty,Female
+587,1,1,0,0,2,5,18 - 34 Years,<12 Years,Above Poverty,Male
+588,2,1,1,1,2,3,55 - 64 Years,<12 Years,Above Poverty,Female
+589,3,2,0,0,2,4,45 - 54 Years,<12 Years,Above Poverty,Male
+590,0,1,0,1,3,2,45 - 54 Years,College Graduate,Above Poverty,Male
+591,0,1,0,0,1,5,55 - 64 Years,12 Years,Above Poverty,Male
+592,3,0,0,1,4,4,45 - 54 Years,12 Years,Middle,Female
+593,0,2,1,1,1,4,35 - 44 Years,College Graduate,Middle,Male
+594,3,2,0,0,1,2,35 - 44 Years,<12 Years,Middle,Male
+595,3,1,0,1,1,5,45 - 54 Years,College Graduate,Middle,Female
+596,3,2,1,1,2,4,45 - 54 Years,<12 Years,Below Poverty,Female
+597,0,0,0,1,5,4,35 - 44 Years,12 Years,Middle,Female
+598,2,0,1,1,2,1,45 - 54 Years,Some College,Above Poverty,Male
+599,3,0,1,1,2,4,45 - 54 Years,<12 Years,Middle,Female
+600,1,2,1,1,1,1,55 - 64 Years,12 Years,Middle,Male
+601,0,2,0,1,2,5,18 - 34 Years,12 Years,Above Poverty,Female
+602,3,2,1,1,1,5,35 - 44 Years,Some College,Middle,Female
+603,3,2,1,0,5,5,55 - 64 Years,12 Years,Middle,Female
+604,1,2,0,0,4,3,18 - 34 Years,12 Years,Middle,Male
+605,2,0,1,1,1,5,45 - 54 Years,<12 Years,Below Poverty,Male
+606,2,1,1,1,5,4,45 - 54 Years,<12 Years,Middle,Male
+607,2,0,1,0,4,2,55 - 64 Years,Some College,Above Poverty,Male
+608,3,2,1,0,3,1,45 - 54 Years,Some College,Above Poverty,Male
+609,3,0,1,0,1,3,65+ Years,12 Years,Middle,Male
+610,3,2,0,1,1,5,55 - 64 Years,<12 Years,Middle,Male
+611,0,2,1,0,3,5,18 - 34 Years,Some College,Middle,Male
+612,1,0,1,1,3,2,55 - 64 Years,Some College,Above Poverty,Male
+613,3,2,0,1,1,2,35 - 44 Years,College Graduate,Above Poverty,Female
+614,1,1,0,0,3,3,55 - 64 Years,Some College,Below Poverty,Female
+615,1,2,0,1,2,1,45 - 54 Years,12 Years,Below Poverty,Male
+616,2,1,1,1,4,5,45 - 54 Years,<12 Years,Below Poverty,Male
+617,0,1,0,1,4,3,65+ Years,Some College,Above Poverty,Male
+618,3,2,1,1,4,4,65+ Years,College Graduate,Below Poverty,Male
+619,2,0,1,0,2,4,65+ Years,<12 Years,Middle,Female
+620,2,1,0,0,3,3,18 - 34 Years,Some College,Middle,Female
+621,3,0,0,1,5,5,65+ Years,College Graduate,Above Poverty,Male
+622,1,1,1,1,3,3,18 - 34 Years,Some College,Below Poverty,Female
+623,2,2,0,0,1,5,65+ Years,<12 Years,Middle,Female
+624,1,2,1,1,4,2,18 - 34 Years,<12 Years,Above Poverty,Male
+625,0,1,0,0,3,3,55 - 64 Years,<12 Years,Below Poverty,Male
+626,1,2,0,1,5,5,55 - 64 Years,12 Years,Middle,Male
+627,0,1,0,1,1,3,45 - 54 Years,Some College,Below Poverty,Male
+628,1,2,1,0,2,3,18 - 34 Years,12 Years,Above Poverty,Female
+629,2,0,0,0,2,5,35 - 44 Years,<12 Years,Below Poverty,Male
+630,2,2,1,0,5,5,45 - 54 Years,College Graduate,Above Poverty,Female
+631,0,0,1,0,1,1,55 - 64 Years,Some College,Below Poverty,Male
+632,3,2,1,1,4,3,18 - 34 Years,12 Years,Middle,Female
+633,0,0,1,0,3,4,65+ Years,Some College,Above Poverty,Male
+634,0,2,0,1,1,3,35 - 44 Years,College Graduate,Above Poverty,Male
+635,1,0,1,0,2,3,55 - 64 Years,12 Years,Above Poverty,Female
+636,1,1,1,0,5,5,45 - 54 Years,<12 Years,Below Poverty,Female
+637,0,1,0,1,5,3,18 - 34 Years,12 Years,Below Poverty,Female
+638,2,0,1,0,3,3,35 - 44 Years,Some College,Middle,Male
+639,1,2,0,0,5,4,18 - 34 Years,Some College,Above Poverty,Female
+640,3,0,1,0,5,5,65+ Years,Some College,Above Poverty,Female
+641,1,2,0,0,1,3,45 - 54 Years,Some College,Below Poverty,Female
+642,1,1,1,1,4,2,18 - 34 Years,<12 Years,Below Poverty,Female
+643,3,2,0,1,3,1,55 - 64 Years,12 Years,Middle,Female
+644,0,1,1,0,1,4,45 - 54 Years,<12 Years,Middle,Female
+645,3,2,1,0,4,3,55 - 64 Years,<12 Years,Below Poverty,Female
+646,0,2,0,0,1,2,18 - 34 Years,<12 Years,Above Poverty,Female
+647,0,2,0,1,1,3,45 - 54 Years,Some College,Middle,Female
+648,0,0,0,1,5,3,55 - 64 Years,Some College,Below Poverty,Male
+649,3,0,0,1,4,5,65+ Years,Some College,Below Poverty,Male
+650,0,1,1,1,3,5,65+ Years,12 Years,Above Poverty,Female
+651,2,1,1,0,3,5,18 - 34 Years,College Graduate,Below Poverty,Male
+652,3,0,0,0,4,2,45 - 54 Years,Some College,Below Poverty,Male
+653,2,1,1,0,5,3,35 - 44 Years,12 Years,Middle,Female
+654,0,0,0,1,2,1,45 - 54 Years,Some College,Below Poverty,Female
+655,1,2,0,0,1,4,65+ Years,Some College,Below Poverty,Female
+656,0,1,1,1,5,5,55 - 64 Years,<12 Years,Middle,Female
+657,2,1,1,1,4,5,35 - 44 Years,<12 Years,Above Poverty,Female
+658,2,0,1,0,1,3,18 - 34 Years,<12 Years,Above Poverty,Female
+659,3,1,1,0,3,3,35 - 44 Years,12 Years,Middle,Male
+660,1,1,1,0,2,2,18 - 34 Years,College Graduate,Middle,Female
+661,3,2,1,1,3,2,35 - 44 Years,College Graduate,Above Poverty,Male
+662,2,1,1,1,4,5,18 - 34 Years,12 Years,Above Poverty,Female
+663,0,2,0,0,1,3,18 - 34 Years,Some College,Above Poverty,Female
+664,1,0,0,0,4,1,35 - 44 Years,12 Years,Above Poverty,Male
+665,0,1,0,1,1,4,35 - 44 Years,Some College,Above Poverty,Female
+666,0,2,0,0,5,3,18 - 34 Years,12 Years,Middle,Female
+667,1,0,0,1,2,3,65+ Years,12 Years,Below Poverty,Male
+668,3,1,1,1,5,2,35 - 44 Years,12 Years,Above Poverty,Female
+669,0,0,0,0,5,4,45 - 54 Years,College Graduate,Above Poverty,Male
+670,2,1,0,0,4,5,55 - 64 Years,<12 Years,Below Poverty,Female
+671,0,0,0,0,2,3,18 - 34 Years,12 Years,Below Poverty,Female
+672,1,0,0,0,1,5,18 - 34 Years,College Graduate,Below Poverty,Male
+673,1,2,0,1,1,3,55 - 64 Years,<12 Years,Below Poverty,Female
+674,1,0,0,1,3,5,65+ Years,<12 Years,Below Poverty,Male
+675,3,1,0,1,1,4,55 - 64 Years,12 Years,Below Poverty,Male
+676,0,1,1,0,4,2,35 - 44 Years,Some College,Middle,Male
+677,3,2,1,1,5,4,55 - 64 Years,Some College,Below Poverty,Female
+678,3,1,0,0,5,1,18 - 34 Years,Some College,Below Poverty,Female
+679,1,1,1,0,5,2,55 - 64 Years,12 Years,Middle,Male
+680,1,1,1,0,2,4,45 - 54 Years,Some College,Below Poverty,Female
+681,3,0,1,0,1,1,35 - 44 Years,College Graduate,Above Poverty,Female
+682,0,0,1,0,4,3,55 - 64 Years,College Graduate,Above Poverty,Female
+683,2,1,0,0,2,3,18 - 34 Years,College Graduate,Below Poverty,Male
+684,3,2,1,1,3,5,35 - 44 Years,College Graduate,Middle,Female
+685,0,0,1,0,4,2,18 - 34 Years,<12 Years,Above Poverty,Male
+686,1,2,1,1,4,3,65+ Years,College Graduate,Middle,Female
+687,1,1,0,1,4,2,45 - 54 Years,Some College,Above Poverty,Female
+688,0,1,0,0,5,3,65+ Years,12 Years,Below Poverty,Male
+689,2,0,0,0,4,5,45 - 54 Years,Some College,Middle,Female
+690,1,1,0,0,1,4,55 - 64 Years,College Graduate,Middle,Male
+691,1,0,0,1,4,5,35 - 44 Years,<12 Years,Middle,Female
+692,1,1,0,0,5,1,55 - 64 Years,College Graduate,Above Poverty,Male
+693,0,1,0,1,4,3,45 - 54 Years,12 Years,Above Poverty,Female
+694,3,0,1,0,3,1,45 - 54 Years,Some College,Above Poverty,Female
+695,1,0,1,0,3,1,45 - 54 Years,12 Years,Below Poverty,Female
+696,3,0,1,1,5,2,18 - 34 Years,12 Years,Above Poverty,Male
+697,2,1,0,1,1,3,35 - 44 Years,12 Years,Below Poverty,Male
+698,1,1,0,0,1,1,55 - 64 Years,Some College,Middle,Male
+699,1,2,0,1,2,4,55 - 64 Years,College Graduate,Middle,Female
+700,2,0,0,1,5,1,65+ Years,12 Years,Below Poverty,Male
+701,1,1,0,1,4,4,45 - 54 Years,Some College,Above Poverty,Male
+702,3,1,1,1,5,2,45 - 54 Years,<12 Years,Below Poverty,Male
+703,0,0,1,1,2,1,45 - 54 Years,Some College,Middle,Male
+704,3,2,0,0,5,5,55 - 64 Years,<12 Years,Middle,Male
+705,0,0,0,0,5,2,65+ Years,Some College,Below Poverty,Male
+706,0,2,0,1,2,4,18 - 34 Years,College Graduate,Above Poverty,Male
+707,3,1,0,0,1,2,35 - 44 Years,12 Years,Above Poverty,Male
+708,3,2,1,0,4,1,18 - 34 Years,College Graduate,Below Poverty,Male
+709,3,1,0,1,2,3,55 - 64 Years,Some College,Below Poverty,Male
+710,3,0,0,0,3,3,45 - 54 Years,12 Years,Above Poverty,Female
+711,2,0,0,1,1,4,35 - 44 Years,<12 Years,Middle,Female
+712,1,0,0,1,3,4,55 - 64 Years,Some College,Below Poverty,Male
+713,0,2,1,0,1,3,55 - 64 Years,12 Years,Above Poverty,Female
+714,3,1,0,1,4,4,55 - 64 Years,<12 Years,Above Poverty,Female
+715,3,0,0,1,4,2,35 - 44 Years,<12 Years,Middle,Male
+716,3,0,1,1,5,5,35 - 44 Years,College Graduate,Middle,Male
+717,2,1,1,1,3,5,65+ Years,Some College,Middle,Male
+718,3,0,1,1,1,2,65+ Years,<12 Years,Middle,Female
+719,3,1,0,0,4,5,18 - 34 Years,12 Years,Middle,Male
+720,3,1,0,0,2,1,35 - 44 Years,<12 Years,Below Poverty,Female
+721,1,1,1,1,4,2,35 - 44 Years,<12 Years,Above Poverty,Male
+722,2,1,1,1,2,4,35 - 44 Years,College Graduate,Below Poverty,Female
+723,3,1,1,0,1,2,65+ Years,College Graduate,Below Poverty,Female
+724,0,2,1,1,4,3,55 - 64 Years,12 Years,Below Poverty,Male
+725,0,0,1,0,4,4,45 - 54 Years,College Graduate,Below Poverty,Male
+726,0,2,1,1,1,3,65+ Years,<12 Years,Below Poverty,Female
+727,2,0,0,1,4,4,35 - 44 Years,<12 Years,Middle,Female
+728,2,2,0,1,2,5,65+ Years,College Graduate,Middle,Male
+729,0,1,0,1,4,2,18 - 34 Years,<12 Years,Above Poverty,Male
+730,3,0,1,1,3,1,35 - 44 Years,<12 Years,Below Poverty,Female
+731,2,0,1,1,5,4,18 - 34 Years,12 Years,Above Poverty,Male
+732,0,2,1,1,2,4,35 - 44 Years,College Graduate,Middle,Female
+733,0,2,1,0,3,3,65+ Years,<12 Years,Middle,Male
+734,3,0,1,0,1,5,55 - 64 Years,College Graduate,Middle,Male
+735,1,2,1,0,2,3,45 - 54 Years,12 Years,Below Poverty,Male
+736,2,2,0,1,5,3,18 - 34 Years,College Graduate,Below Poverty,Female
+737,3,2,0,1,5,5,65+ Years,<12 Years,Middle,Male
+738,0,1,1,1,1,1,55 - 64 Years,College Graduate,Above Poverty,Female
+739,0,1,0,1,1,3,65+ Years,<12 Years,Above Poverty,Male
+740,3,2,1,1,2,3,18 - 34 Years,<12 Years,Middle,Female
+741,2,2,0,1,4,4,45 - 54 Years,<12 Years,Above Poverty,Female
+742,1,1,1,1,1,5,65+ Years,12 Years,Middle,Male
+743,1,1,1,0,4,2,35 - 44 Years,College Graduate,Above Poverty,Female
+744,0,0,0,1,3,1,55 - 64 Years,12 Years,Middle,Female
+745,2,0,0,0,5,1,65+ Years,College Graduate,Above Poverty,Female
+746,1,1,1,0,4,5,55 - 64 Years,12 Years,Below Poverty,Female
+747,2,2,1,1,5,4,35 - 44 Years,Some College,Middle,Male
+748,2,2,0,1,4,4,45 - 54 Years,<12 Years,Middle,Male
+749,0,2,0,0,3,5,45 - 54 Years,<12 Years,Above Poverty,Male
+750,1,2,1,0,1,4,35 - 44 Years,12 Years,Middle,Female
+751,3,0,0,1,3,1,55 - 64 Years,Some College,Middle,Female
+752,0,1,1,1,1,1,65+ Years,<12 Years,Middle,Male
+753,1,2,1,0,1,2,35 - 44 Years,College Graduate,Below Poverty,Male
+754,1,0,1,1,5,5,18 - 34 Years,12 Years,Below Poverty,Female
+755,1,2,1,1,3,3,55 - 64 Years,<12 Years,Above Poverty,Male
+756,1,1,0,1,4,3,45 - 54 Years,<12 Years,Below Poverty,Male
+757,1,0,0,0,3,2,35 - 44 Years,12 Years,Above Poverty,Female
+758,2,1,0,0,5,2,45 - 54 Years,12 Years,Below Poverty,Male
+759,0,1,0,0,1,4,55 - 64 Years,College Graduate,Above Poverty,Female
+760,2,0,0,1,5,2,45 - 54 Years,College Graduate,Below Poverty,Male
+761,3,0,0,1,2,2,35 - 44 Years,<12 Years,Below Poverty,Female
+762,1,0,0,0,2,3,55 - 64 Years,<12 Years,Above Poverty,Female
+763,0,0,1,0,4,4,18 - 34 Years,12 Years,Middle,Female
+764,1,0,0,0,5,2,35 - 44 Years,<12 Years,Middle,Female
+765,0,0,0,1,4,2,65+ Years,<12 Years,Below Poverty,Female
+766,2,0,1,0,4,4,35 - 44 Years,12 Years,Above Poverty,Male
+767,0,2,0,0,2,5,55 - 64 Years,<12 Years,Middle,Male
+768,3,1,0,1,4,4,35 - 44 Years,<12 Years,Above Poverty,Male
+769,3,0,1,1,2,3,18 - 34 Years,Some College,Middle,Female
+770,0,2,0,1,1,5,18 - 34 Years,College Graduate,Above Poverty,Male
+771,0,2,0,0,5,1,65+ Years,12 Years,Below Poverty,Female
+772,0,2,0,1,4,4,45 - 54 Years,Some College,Above Poverty,Female
+773,0,1,1,1,2,3,55 - 64 Years,College Graduate,Middle,Male
+774,3,0,0,0,3,5,55 - 64 Years,College Graduate,Below Poverty,Female
+775,1,2,0,1,4,4,45 - 54 Years,College Graduate,Above Poverty,Male
+776,0,1,1,0,1,2,18 - 34 Years,Some College,Middle,Female
+777,0,1,0,0,1,4,18 - 34 Years,Some College,Below Poverty,Female
+778,3,1,1,1,3,1,35 - 44 Years,College Graduate,Above Poverty,Male
+779,3,2,1,1,2,4,65+ Years,<12 Years,Middle,Female
+780,2,0,0,1,4,5,65+ Years,<12 Years,Above Poverty,Male
+781,0,2,1,1,2,5,65+ Years,Some College,Above Poverty,Female
+782,2,2,1,1,1,4,35 - 44 Years,Some College,Below Poverty,Male
+783,3,0,0,1,2,5,65+ Years,Some College,Below Poverty,Female
+784,3,0,1,0,1,2,45 - 54 Years,College Graduate,Middle,Male
+785,1,0,1,0,2,4,35 - 44 Years,<12 Years,Below Poverty,Male
+786,0,1,0,1,3,2,45 - 54 Years,Some College,Middle,Female
+787,2,0,0,0,5,2,35 - 44 Years,Some College,Above Poverty,Male
+788,3,2,0,1,3,3,65+ Years,12 Years,Above Poverty,Female
+789,3,0,1,0,3,4,45 - 54 Years,College Graduate,Middle,Female
+790,2,2,0,0,5,5,45 - 54 Years,12 Years,Above Poverty,Male
+791,1,1,1,0,5,2,45 - 54 Years,<12 Years,Below Poverty,Male
+792,3,2,1,1,4,3,35 - 44 Years,12 Years,Above Poverty,Male
+793,0,2,1,0,4,4,55 - 64 Years,12 Years,Below Poverty,Male
+794,3,0,1,1,3,4,65+ Years,12 Years,Middle,Male
+795,0,0,1,0,3,1,45 - 54 Years,College Graduate,Middle,Female
+796,2,2,1,0,1,1,55 - 64 Years,<12 Years,Above Poverty,Male
+797,0,0,1,0,1,2,65+ Years,12 Years,Above Poverty,Female
+798,2,1,0,0,4,1,65+ Years,College Graduate,Below Poverty,Male
+799,0,1,0,0,4,2,45 - 54 Years,<12 Years,Below Poverty,Male
+800,2,0,1,1,1,5,45 - 54 Years,Some College,Above Poverty,Male
+801,0,1,1,1,1,2,35 - 44 Years,12 Years,Above Poverty,Female
+802,1,0,0,0,2,1,55 - 64 Years,<12 Years,Middle,Male
+803,0,2,1,0,2,5,55 - 64 Years,12 Years,Middle,Female
+804,0,2,0,0,1,1,45 - 54 Years,Some College,Middle,Female
+805,1,1,0,0,2,2,65+ Years,<12 Years,Above Poverty,Female
+806,3,0,0,1,5,3,45 - 54 Years,College Graduate,Above Poverty,Male
+807,3,0,1,0,4,4,65+ Years,<12 Years,Above Poverty,Female
+808,0,1,1,1,4,1,65+ Years,College Graduate,Middle,Male
+809,1,2,0,0,1,2,45 - 54 Years,<12 Years,Above Poverty,Female
+810,0,1,0,1,3,5,18 - 34 Years,College Graduate,Below Poverty,Male
+811,2,2,0,0,1,1,55 - 64 Years,Some College,Above Poverty,Female
+812,2,0,0,0,2,1,65+ Years,Some College,Above Poverty,Male
+813,0,2,0,1,3,4,65+ Years,Some College,Above Poverty,Male
+814,3,1,1,0,2,2,18 - 34 Years,<12 Years,Above Poverty,Male
+815,3,0,0,0,5,3,35 - 44 Years,Some College,Above Poverty,Female
+816,0,1,1,0,2,5,18 - 34 Years,12 Years,Below Poverty,Female
+817,0,1,0,1,5,2,18 - 34 Years,Some College,Below Poverty,Male
+818,2,2,1,0,5,5,65+ Years,College Graduate,Above Poverty,Female
+819,3,1,1,0,2,1,55 - 64 Years,College Graduate,Middle,Female
+820,0,2,1,1,2,4,18 - 34 Years,College Graduate,Above Poverty,Female
+821,2,0,1,1,5,4,35 - 44 Years,<12 Years,Above Poverty,Female
+822,3,2,1,1,3,3,45 - 54 Years,12 Years,Above Poverty,Female
+823,1,0,1,0,5,4,18 - 34 Years,Some College,Middle,Female
+824,2,2,0,0,4,1,18 - 34 Years,12 Years,Middle,Female
+825,3,1,1,0,5,3,35 - 44 Years,12 Years,Middle,Male
+826,3,2,0,1,3,2,55 - 64 Years,College Graduate,Below Poverty,Male
+827,2,2,1,0,4,4,18 - 34 Years,College Graduate,Middle,Female
+828,1,0,1,0,1,3,18 - 34 Years,College Graduate,Below Poverty,Male
+829,2,1,0,1,1,1,55 - 64 Years,<12 Years,Below Poverty,Male
+830,3,2,1,1,3,5,35 - 44 Years,12 Years,Middle,Male
+831,0,1,0,1,5,5,18 - 34 Years,12 Years,Middle,Female
+832,0,2,0,1,2,1,55 - 64 Years,<12 Years,Middle,Female
+833,2,2,0,1,3,1,18 - 34 Years,<12 Years,Below Poverty,Female
+834,3,1,0,0,4,5,45 - 54 Years,<12 Years,Above Poverty,Female
+835,0,2,1,1,4,3,65+ Years,12 Years,Middle,Female
+836,3,1,1,0,1,5,45 - 54 Years,12 Years,Middle,Male
+837,2,2,0,0,4,1,18 - 34 Years,College Graduate,Middle,Female
+838,0,0,1,1,3,4,35 - 44 Years,College Graduate,Below Poverty,Male
+839,3,1,1,1,4,2,65+ Years,12 Years,Below Poverty,Female
+840,0,2,0,1,3,4,45 - 54 Years,College Graduate,Above Poverty,Male
+841,2,2,1,0,2,4,55 - 64 Years,<12 Years,Middle,Female
+842,3,0,0,1,1,1,35 - 44 Years,Some College,Below Poverty,Female
+843,0,1,0,1,4,5,45 - 54 Years,College Graduate,Above Poverty,Female
+844,2,2,1,1,3,3,55 - 64 Years,12 Years,Middle,Female
+845,0,0,1,1,5,4,18 - 34 Years,College Graduate,Below Poverty,Female
+846,0,2,1,1,1,5,55 - 64 Years,College Graduate,Middle,Female
+847,1,1,0,0,2,3,45 - 54 Years,College Graduate,Middle,Male
+848,1,2,0,0,3,4,45 - 54 Years,Some College,Below Poverty,Female
+849,2,2,1,0,2,3,18 - 34 Years,<12 Years,Below Poverty,Male
+850,1,2,1,1,2,5,55 - 64 Years,12 Years,Below Poverty,Female
+851,2,2,1,1,4,2,55 - 64 Years,Some College,Middle,Male
+852,1,0,1,1,4,5,18 - 34 Years,12 Years,Middle,Male
+853,0,0,0,0,3,1,55 - 64 Years,12 Years,Above Poverty,Male
+854,2,1,1,1,5,3,18 - 34 Years,12 Years,Middle,Male
+855,2,0,0,1,3,2,35 - 44 Years,Some College,Below Poverty,Male
+856,0,0,0,1,5,3,45 - 54 Years,<12 Years,Middle,Male
+857,2,1,1,0,2,3,35 - 44 Years,12 Years,Above Poverty,Female
+858,2,0,1,1,1,4,65+ Years,<12 Years,Above Poverty,Male
+859,1,0,1,0,3,1,65+ Years,<12 Years,Below Poverty,Female
+860,2,1,0,1,3,3,65+ Years,College Graduate,Below Poverty,Female
+861,3,1,1,0,5,5,18 - 34 Years,Some College,Above Poverty,Male
+862,0,1,1,0,2,5,55 - 64 Years,Some College,Above Poverty,Male
+863,1,2,0,0,2,4,35 - 44 Years,College Graduate,Above Poverty,Female
+864,1,2,1,1,5,1,35 - 44 Years,College Graduate,Below Poverty,Male
+865,3,1,0,1,2,1,35 - 44 Years,<12 Years,Above Poverty,Male
+866,0,1,1,0,4,5,35 - 44 Years,12 Years,Above Poverty,Male
+867,0,1,0,0,1,2,65+ Years,Some College,Below Poverty,Male
+868,1,2,1,1,3,4,35 - 44 Years,12 Years,Middle,Male
+869,2,2,1,1,1,4,55 - 64 Years,12 Years,Middle,Male
+870,1,0,0,0,3,5,65+ Years,College Graduate,Above Poverty,Male
+871,0,0,0,1,4,5,35 - 44 Years,12 Years,Middle,Female
+872,3,1,1,1,2,2,18 - 34 Years,<12 Years,Middle,Male
+873,1,2,0,1,5,2,45 - 54 Years,College Graduate,Middle,Female
+874,0,2,0,1,4,1,45 - 54 Years,12 Years,Middle,Female
+875,1,2,0,0,1,4,45 - 54 Years,College Graduate,Above Poverty,Female
+876,2,1,0,1,5,4,65+ Years,<12 Years,Middle,Female
+877,1,0,1,1,2,5,35 - 44 Years,<12 Years,Middle,Male
+878,1,1,1,0,4,1,65+ Years,12 Years,Below Poverty,Female
+879,0,0,0,0,5,4,55 - 64 Years,College Graduate,Above Poverty,Female
+880,0,0,0,1,4,1,18 - 34 Years,12 Years,Below Poverty,Female
+881,0,1,0,1,4,1,18 - 34 Years,12 Years,Below Poverty,Female
+882,1,0,0,1,2,5,45 - 54 Years,College Graduate,Above Poverty,Female
+883,2,0,1,1,3,1,45 - 54 Years,12 Years,Middle,Male
+884,3,2,1,0,5,2,45 - 54 Years,<12 Years,Below Poverty,Male
+885,3,0,0,0,2,2,35 - 44 Years,College Graduate,Above Poverty,Female
+886,0,1,0,0,4,3,55 - 64 Years,College Graduate,Middle,Male
+887,0,1,0,1,2,5,55 - 64 Years,College Graduate,Above Poverty,Male
+888,1,0,1,1,3,3,55 - 64 Years,College Graduate,Below Poverty,Female
+889,3,2,0,1,5,2,55 - 64 Years,12 Years,Middle,Female
+890,0,2,1,1,3,3,45 - 54 Years,12 Years,Middle,Female
+891,2,0,0,0,1,5,18 - 34 Years,<12 Years,Above Poverty,Male
+892,2,0,1,0,5,5,45 - 54 Years,Some College,Middle,Female
+893,0,1,0,1,3,1,55 - 64 Years,Some College,Below Poverty,Male
+894,0,0,1,0,4,4,45 - 54 Years,<12 Years,Below Poverty,Male
+895,3,2,0,1,5,1,55 - 64 Years,Some College,Below Poverty,Male
+896,3,0,0,1,5,5,65+ Years,<12 Years,Above Poverty,Female
+897,1,1,0,0,2,2,18 - 34 Years,12 Years,Middle,Male
+898,3,1,1,1,4,2,65+ Years,College Graduate,Middle,Female
+899,2,1,0,1,1,1,35 - 44 Years,College Graduate,Middle,Female
+900,2,1,1,0,3,5,45 - 54 Years,12 Years,Below Poverty,Female
+901,0,1,1,1,2,2,35 - 44 Years,College Graduate,Middle,Female
+902,3,0,0,1,3,5,45 - 54 Years,College Graduate,Below Poverty,Female
+903,1,0,0,0,1,2,65+ Years,Some College,Middle,Male
+904,2,0,0,1,1,5,55 - 64 Years,12 Years,Below Poverty,Male
+905,2,0,1,0,5,3,55 - 64 Years,Some College,Middle,Male
+906,1,1,0,1,1,5,45 - 54 Years,Some College,Above Poverty,Male
+907,1,2,1,0,3,5,55 - 64 Years,College Graduate,Above Poverty,Male
+908,2,0,1,0,4,1,65+ Years,College Graduate,Below Poverty,Female
+909,2,2,0,0,4,3,55 - 64 Years,12 Years,Below Poverty,Female
+910,1,0,0,1,5,4,65+ Years,College Graduate,Middle,Male
+911,2,0,0,0,3,1,35 - 44 Years,College Graduate,Middle,Male
+912,0,2,0,0,3,4,65+ Years,12 Years,Above Poverty,Male
+913,0,1,0,0,1,2,18 - 34 Years,College Graduate,Middle,Female
+914,1,0,0,0,3,4,18 - 34 Years,Some College,Below Poverty,Female
+915,3,0,1,0,2,5,18 - 34 Years,12 Years,Below Poverty,Female
+916,1,0,1,1,1,4,45 - 54 Years,College Graduate,Below Poverty,Male
+917,1,2,1,1,2,1,45 - 54 Years,<12 Years,Below Poverty,Male
+918,3,1,0,1,5,1,45 - 54 Years,12 Years,Below Poverty,Male
+919,3,2,1,1,4,4,65+ Years,12 Years,Above Poverty,Male
+920,3,2,1,1,5,1,45 - 54 Years,<12 Years,Above Poverty,Female
+921,0,1,1,1,4,1,35 - 44 Years,College Graduate,Below Poverty,Male
+922,2,2,1,1,5,4,18 - 34 Years,College Graduate,Middle,Male
+923,0,1,1,0,3,3,65+ Years,12 Years,Below Poverty,Male
+924,2,0,0,1,2,3,18 - 34 Years,12 Years,Above Poverty,Female
+925,0,1,0,0,4,2,45 - 54 Years,College Graduate,Below Poverty,Female
+926,2,0,1,0,1,1,65+ Years,College Graduate,Above Poverty,Male
+927,0,2,1,1,2,4,55 - 64 Years,Some College,Above Poverty,Female
+928,3,2,1,0,1,1,35 - 44 Years,12 Years,Below Poverty,Female
+929,1,0,0,0,2,5,45 - 54 Years,12 Years,Below Poverty,Female
+930,0,2,0,0,2,1,45 - 54 Years,<12 Years,Middle,Female
+931,2,1,1,0,5,1,35 - 44 Years,Some College,Above Poverty,Female
+932,3,0,0,1,4,3,35 - 44 Years,College Graduate,Middle,Male
+933,0,2,0,1,4,4,55 - 64 Years,Some College,Below Poverty,Male
+934,0,0,1,1,2,1,45 - 54 Years,College Graduate,Above Poverty,Male
+935,3,1,0,1,3,3,45 - 54 Years,College Graduate,Middle,Female
+936,0,1,0,1,3,2,18 - 34 Years,Some College,Middle,Female
+937,1,2,1,1,1,3,65+ Years,12 Years,Middle,Female
+938,0,1,0,1,1,3,65+ Years,College Graduate,Below Poverty,Female
+939,1,0,0,1,5,3,18 - 34 Years,Some College,Below Poverty,Male
+940,1,1,1,1,2,1,65+ Years,<12 Years,Below Poverty,Male
+941,3,0,0,1,1,1,35 - 44 Years,Some College,Above Poverty,Male
+942,0,0,0,0,1,2,65+ Years,<12 Years,Below Poverty,Male
+943,3,1,1,1,2,5,65+ Years,College Graduate,Above Poverty,Male
+944,0,2,1,0,5,5,18 - 34 Years,Some College,Middle,Male
+945,0,1,1,0,1,5,55 - 64 Years,Some College,Middle,Female
+946,2,0,0,0,5,2,65+ Years,<12 Years,Below Poverty,Female
+947,0,0,1,0,4,5,65+ Years,Some College,Middle,Male
+948,3,1,0,1,5,5,55 - 64 Years,Some College,Below Poverty,Female
+949,1,2,1,0,3,3,18 - 34 Years,College Graduate,Above Poverty,Male
+950,0,2,0,1,3,1,55 - 64 Years,Some College,Middle,Male
+951,2,0,1,1,5,1,18 - 34 Years,12 Years,Below Poverty,Female
+952,3,0,1,0,3,3,35 - 44 Years,<12 Years,Middle,Male
+953,0,2,1,1,4,3,18 - 34 Years,Some College,Middle,Male
+954,3,1,1,0,2,3,35 - 44 Years,<12 Years,Below Poverty,Male
+955,2,0,0,0,3,1,35 - 44 Years,<12 Years,Middle,Female
+956,2,0,1,1,3,5,18 - 34 Years,<12 Years,Middle,Female
+957,3,2,1,1,5,3,45 - 54 Years,Some College,Middle,Female
+958,0,1,0,0,4,2,18 - 34 Years,Some College,Middle,Female
+959,1,2,1,1,2,3,65+ Years,<12 Years,Above Poverty,Male
+960,2,1,0,1,5,4,65+ Years,12 Years,Middle,Female
+961,0,1,1,1,5,3,45 - 54 Years,<12 Years,Middle,Female
+962,0,1,1,0,4,1,35 - 44 Years,12 Years,Below Poverty,Female
+963,1,0,1,0,2,3,45 - 54 Years,<12 Years,Above Poverty,Male
+964,2,2,0,1,4,4,65+ Years,College Graduate,Below Poverty,Female
+965,2,2,1,1,2,2,45 - 54 Years,<12 Years,Below Poverty,Female
+966,0,1,1,1,4,5,18 - 34 Years,<12 Years,Below Poverty,Male
+967,0,0,1,1,5,3,45 - 54 Years,Some College,Above Poverty,Male
+968,1,0,0,1,5,4,35 - 44 Years,12 Years,Below Poverty,Male
+969,1,2,0,0,1,4,18 - 34 Years,College Graduate,Below Poverty,Male
+970,2,0,1,1,3,2,55 - 64 Years,12 Years,Below Poverty,Female
+971,3,0,0,0,4,1,65+ Years,College Graduate,Middle,Male
+972,2,1,1,1,1,3,65+ Years,<12 Years,Below Poverty,Female
+973,0,0,1,0,3,4,45 - 54 Years,Some College,Above Poverty,Female
+974,2,1,1,1,4,2,18 - 34 Years,Some College,Above Poverty,Female
+975,3,2,1,0,2,5,55 - 64 Years,12 Years,Middle,Female
+976,1,0,1,1,3,4,18 - 34 Years,Some College,Above Poverty,Female
+977,3,2,1,0,5,2,65+ Years,12 Years,Above Poverty,Male
+978,3,2,1,0,1,1,18 - 34 Years,12 Years,Middle,Female
+979,3,0,0,0,3,1,55 - 64 Years,College Graduate,Below Poverty,Female
+980,1,0,0,0,3,4,45 - 54 Years,12 Years,Middle,Female
+981,3,2,0,0,5,4,35 - 44 Years,College Graduate,Below Poverty,Male
+982,3,0,0,0,4,3,18 - 34 Years,Some College,Below Poverty,Female
+983,3,1,0,1,2,2,35 - 44 Years,12 Years,Above Poverty,Female
+984,0,1,0,0,5,4,65+ Years,12 Years,Middle,Male
+985,3,0,0,1,2,3,45 - 54 Years,<12 Years,Above Poverty,Female
+986,1,2,1,1,4,3,45 - 54 Years,12 Years,Above Poverty,Female
+987,3,0,1,1,3,4,18 - 34 Years,12 Years,Below Poverty,Male
+988,3,0,1,1,2,1,45 - 54 Years,<12 Years,Above Poverty,Female
+989,1,2,1,1,1,2,18 - 34 Years,<12 Years,Middle,Female
+990,3,2,0,0,1,2,18 - 34 Years,Some College,Above Poverty,Female
+991,1,1,0,0,5,1,35 - 44 Years,12 Years,Above Poverty,Female
+992,3,2,1,0,4,4,45 - 54 Years,Some College,Below Poverty,Female
+993,1,1,1,1,5,2,18 - 34 Years,Some College,Middle,Male
+994,3,2,0,0,5,4,35 - 44 Years,<12 Years,Above Poverty,Male
+995,3,0,1,0,5,4,55 - 64 Years,College Graduate,Below Poverty,Male
+996,0,1,1,0,1,3,35 - 44 Years,Some College,Above Poverty,Female
+997,0,1,1,0,1,1,35 - 44 Years,College Graduate,Middle,Female
+998,3,1,1,0,5,4,18 - 34 Years,12 Years,Above Poverty,Female
+999,3,0,0,1,1,5,65+ Years,<12 Years,Above Poverty,Male
+1000,2,0,1,0,4,1,65+ Years,12 Years,Below Poverty,Female
